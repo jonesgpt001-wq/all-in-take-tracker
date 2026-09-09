@@ -68,7 +68,8 @@
    "resolution": "The $2.2T CARES Act passed Mar 27, 2020. Trump lost to Biden in Nov 2020.",
    "sources": [
     "https://apnews.com/article/biden-signs-gun-violence-bill-c21249287f976c2c164d8753205c2e6d"
-   ]
+   ],
+   "ts": 900
   },
   {
    "id": 2,
@@ -90,7 +91,8 @@
    "resolution": "US recorded 1.1M+ deaths on ~104M reported cases (CFR ~1.1%); IFR estimates ~0.5-1%. 2-5x his target.",
    "sources": [
     "https://doi.org/10.1001/jamanetworkopen.2020.33706"
-   ]
+   ],
+   "ts": 840
   },
   {
    "id": 3,
@@ -113,7 +115,8 @@
    "sources": [
     "https://pubmed.ncbi.nlm.nih.gov/33399860/",
     "https://www.nbcnews.com/"
-   ]
+   ],
+   "ts": 780
   },
   {
    "id": 4,
@@ -135,7 +138,8 @@
    "resolution": "ACTT-1 (Apr 2020) showed shorter recovery, but WHO Solidarity (Oct 2020) found no mortality benefit. Useful, not the game-changer implied.",
    "sources": [
     "https://www.bls.gov/opub/ted/2022/consumer-prices-up-9-1-percent-over-the-year-ended-june-2022-largest-increase-in-40-years.htm"
-   ]
+   ],
+   "ts": 960
   },
   {
    "id": 5,
@@ -155,7 +159,8 @@
    "accuracy": 0.5,
    "weight": 6,
    "resolution": "Hanks and the NBA players did recover quickly. The public did not calm: 2020 stayed dominated by the pandemic.",
-   "sources": []
+   "sources": [],
+   "ts": 2100
   },
   {
    "id": 6,
@@ -178,7 +183,8 @@
    "sources": [
     "https://www.statmuse.com/money/ask/march-23-2020-s-and-p",
     "https://fred.stlouisfed.org/graph/?g=qDEB"
-   ]
+   ],
+   "ts": 3120
   },
   {
    "id": 7,
@@ -200,7 +206,8 @@
    "resolution": "Q2 2020 GDP shock was sharper than 2008, but recovery was far faster (V-shaped markets, unemployment back under 7% by Oct 2020). Not the prolonged malaise of 2008.",
    "sources": [
     "https://apnews.com/article/virus-outbreak-election-2020-ap-top-news-technology-business-3b986be61c960c484a274837c5791909"
-   ]
+   ],
+   "ts": 3180
   },
   {
    "id": 8,
@@ -222,7 +229,8 @@
    "resolution": "US COVID deaths alone passed 1.1M. Excess-mortality research attributes the large majority of excess deaths to COVID itself, not lockdown fallout.",
    "sources": [
     "https://doi.org/10.1001/jamanetworkopen.2020.33706"
-   ]
+   ],
+   "ts": 3000
   },
   {
    "id": 9,
@@ -244,7 +252,8 @@
    "resolution": "The S&P never traded below 2,237 (Mar 23, 2020 close). It ended 2020 at 3,756, up 16% for the year.",
    "sources": [
     "https://www.statmuse.com/money/ask/march-23-2020-s-and-p"
-   ]
+   ],
+   "ts": 5040
   },
   {
    "id": 10,
@@ -264,7 +273,8 @@
    "accuracy": 0.5,
    "weight": 9,
    "resolution": "US domestic leisure travel largely recovered by mid-2022 (~24-27 months); business and international travel took longer. Direction right, estimate a bit optimistic.",
-   "sources": []
+   "sources": [],
+   "ts": 5100
   },
   {
    "id": 11,
@@ -284,7 +294,8 @@
    "accuracy": 1,
    "weight": 6,
    "resolution": "No COVID-driven civil breakdown occurred in the US. (2020 saw unrest after George Floyd's killing, a separate cause.)",
-   "sources": []
+   "sources": [],
+   "ts": 5280
   },
   {
    "id": 12,
@@ -304,7 +315,8 @@
    "accuracy": 1,
    "weight": 12,
    "resolution": "CARES Act ($2.2T) passed within two weeks; total US COVID fiscal response reached ~$5T by 2021.",
-   "sources": []
+   "sources": [],
+   "ts": 3780
   },
   {
    "id": 13,
@@ -324,7 +336,8 @@
    "accuracy": 0,
    "weight": 2,
    "resolution": "Trump's March 14, 2020 test was negative. (He did contract COVID later, in Oct 2020.)",
-   "sources": []
+   "sources": [],
+   "ts": 1980
   },
   {
    "id": 14,
@@ -344,7 +357,8 @@
    "accuracy": 0.5,
    "weight": 9,
    "resolution": "Hybrid became the norm. Office attendance never fully recovered, but the full-remote-forever consensus of 2020 did die.",
-   "sources": []
+   "sources": [],
+   "ts": 420
   },
   {
    "id": 15,
@@ -364,7 +378,8 @@
    "accuracy": 1,
    "weight": 12,
    "resolution": "Vaccines rolled out Dec 2020; by spring 2022 (2 years out) the US had largely normalized.",
-   "sources": []
+   "sources": [],
+   "ts": 780
   },
   {
    "id": 16,
@@ -384,7 +399,8 @@
    "accuracy": 0,
    "weight": 15,
    "resolution": "Friedberg admits this one on air. US deaths passed 100,000 by late May 2020, eventually 1.1M+.",
-   "sources": []
+   "sources": [],
+   "ts": 720
   },
   {
    "id": 17,
@@ -404,7 +420,8 @@
    "accuracy": 0,
    "weight": 20,
    "resolution": "Biden won the November 2020 election 306-232 in the Electoral College.",
-   "sources": []
+   "sources": [],
+   "ts": 1680
   },
   {
    "id": 18,
@@ -424,7 +441,8 @@
    "accuracy": 0,
    "weight": 12,
    "resolution": "Lockdowns were still salient in November; Trump lost anyway.",
-   "sources": []
+   "sources": [],
+   "ts": 1800
   },
   {
    "id": 19,
@@ -447,7 +465,8 @@
    "sources": [
     "https://apnews.com/article/virus-outbreak-election-2020-ap-top-news-technology-business-3b986be61c960c484a274837c5791909",
     "https://www.bls.gov/news.release/archives/empsit_09042020.htm"
-   ]
+   ],
+   "ts": 1200
   },
   {
    "id": 20,
@@ -469,7 +488,8 @@
    "resolution": "SF saw the largest office-vacancy and population declines of any major US city; downtown SF became the national symbol of remote-work fallout.",
    "sources": [
     "https://www.latimes.com/california/story/2023-02-15/californias-population-has-dropped-by-more-than-half-a-million-in-about-two-years-why"
-   ]
+   ],
+   "ts": 2100
   },
   {
    "id": 21,
@@ -489,7 +509,8 @@
    "accuracy": 0.5,
    "weight": 9,
    "resolution": "Tech profits did boom in 2021 and layoffs + office cuts happened - but the recovery was driven mainly by stimulus and reopening, and Chamath's reply on air ('that's not a thesis, that's a hope') aged as well as the thesis.",
-   "sources": []
+   "sources": [],
+   "ts": 2400
   },
   {
    "id": 22,
@@ -509,7 +530,8 @@
    "accuracy": 0.5,
    "weight": 9,
    "resolution": "Studies since show mixed remote productivity; by 2023-25 much of tech pushed return-to-office. The strongest version of this take did not hold.",
-   "sources": []
+   "sources": [],
+   "ts": 2520
   },
   {
    "id": 23,
@@ -529,7 +551,8 @@
    "accuracy": null,
    "weight": 20,
    "resolution": "Horizon: ~2040. Check back.",
-   "sources": []
+   "sources": [],
+   "ts": 2820
   },
   {
    "id": 24,
@@ -549,7 +572,8 @@
    "accuracy": 1,
    "weight": 12,
    "resolution": "By 2022-25 'Cold War II' framing was mainstream: chip export controls, CHIPS Act, tariff wars.",
-   "sources": []
+   "sources": [],
+   "ts": 2940
   },
   {
    "id": 25,
@@ -569,7 +593,8 @@
    "accuracy": 1,
    "weight": 12,
    "resolution": "De-risking/decoupling became explicit bipartisan policy (CHIPS Act 2022, export controls, tariffs under both administrations). Pharma reshoring has been slower than implied.",
-   "sources": []
+   "sources": [],
+   "ts": 3240
   },
   {
    "id": 26,
@@ -589,7 +614,8 @@
    "accuracy": 0.5,
    "weight": 6,
    "resolution": "TikTok faced a divest-or-ban law (2024) and repeated deadline extensions with framework-deal talks - a negotiation, but not the clean trade swap sketched.",
-   "sources": []
+   "sources": [],
+   "ts": 3480
   },
   {
    "id": 27,
@@ -609,7 +635,8 @@
    "accuracy": 1,
    "weight": 12,
    "resolution": "The winter 2020-21 wave was worse nationally (~3,400 deaths/day peak), but no single metro region repeated NYC's concentrated spring 2020 mortality. Literal call holds; the spirit (no big second wave) did not.",
-   "sources": []
+   "sources": [],
+   "ts": 1560
   },
   {
    "id": 28,
@@ -629,7 +656,8 @@
    "accuracy": null,
    "weight": 16,
    "resolution": "Long-horizon thesis. Automation-driven reshoring is underway but nowhere near this ratio. Check back in 2030.",
-   "sources": []
+   "sources": [],
+   "ts": 3600
   },
   {
    "id": 29,
@@ -652,7 +680,8 @@
    "sources": [
     "https://www.latimes.com/california/story/2023-02-15/californias-population-has-dropped-by-more-than-half-a-million-in-about-two-years-why",
     "https://www.ppic.org/wp-content/uploads/whos-leaving-california-and-whos-moving-in-march-2023.pdf"
-   ]
+   ],
+   "ts": 780
   },
   {
    "id": 30,
@@ -675,7 +704,8 @@
    "sources": [
     "https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_(2020)",
     "https://techcrunch.com/2020/11/03/prop-22-results/"
-   ]
+   ],
+   "ts": 1620
   },
   {
    "id": 31,
@@ -698,7 +728,8 @@
    "sources": [
     "https://apnews.com/article/biden-signs-gun-violence-bill-c21249287f976c2c164d8753205c2e6d",
     "https://www.reuters.com/world/us/biden-signs-bipartisan-gun-safety-bill-into-law-2022-06-25/"
-   ]
+   ],
+   "ts": 2880
   },
   {
    "id": 32,
@@ -721,7 +752,8 @@
    "sources": [
     "https://www.bls.gov/opub/ted/2022/consumer-prices-up-9-1-percent-over-the-year-ended-june-2022-largest-increase-in-40-years.htm",
     "https://www.reuters.com/world/us/all-systems-go-feds-liftoff-us-interest-rates-2022-03-16/"
-   ]
+   ],
+   "ts": 3120
   },
   {
    "id": 33,
@@ -743,7 +775,8 @@
    "resolution": "From Sept 2020 the S&P 500 rose ~40% to its January 2022 peak.",
    "sources": [
     "https://fred.stlouisfed.org/graph/?g=qDEB"
-   ]
+   ],
+   "ts": 3180
   },
   {
    "id": 34,
@@ -763,7 +796,8 @@
    "accuracy": 0,
    "weight": 15,
    "resolution": "Biden won 306-232. Sacks had predicted Biden on the previous episode, then flipped.",
-   "sources": []
+   "sources": [],
+   "ts": 4020
   },
   {
    "id": 35,
@@ -783,7 +817,8 @@
    "accuracy": 1,
    "weight": 10,
    "resolution": "Biden won 306-232.",
-   "sources": []
+   "sources": [],
+   "ts": 3960
   },
   {
    "id": 36,
@@ -803,7 +838,8 @@
    "accuracy": 1,
    "weight": 10,
    "resolution": "Biden won 306-232, with margins under 1% in the decisive states. 'By a nose' is fair.",
-   "sources": []
+   "sources": [],
+   "ts": 4080
   },
   {
    "id": 37,
@@ -823,7 +859,8 @@
    "accuracy": null,
    "weight": 5,
    "resolution": "Hedged, no falsifiable call. Shown for completeness - the model only scores real positions.",
-   "sources": []
+   "sources": [],
+   "ts": 4080
   },
   {
    "id": 38,
@@ -846,7 +883,8 @@
    "sources": [
     "https://www.cnbc.com/2022/08/03/spac-market-hits-a-wall-as-issuance-dries-up-and-valuation-bubble-bursts.html",
     "https://www.renaissancecapital.com/IPO-Center/News/92125/special-report-spac-merger-returns-crumble-upending-the-2022-spac-market"
-   ]
+   ],
+   "ts": 3420
   },
   {
    "id": 39,
@@ -868,7 +906,8 @@
    "resolution": "The SPAC craze died in 2022; unicorn counting remains the VC scoreboard.",
    "sources": [
     "https://www.cnbc.com/2022/08/03/spac-market-hits-a-wall-as-issuance-dries-up-and-valuation-bubble-bursts.html"
-   ]
+   ],
+   "ts": 3540
   },
   {
    "id": 40,
@@ -888,7 +927,8 @@
    "accuracy": 0.5,
    "weight": 6,
    "resolution": "CA's big reform bills died in Aug 2020 (correct near-term), but CA later passed officer decertification (SB 2, 2021), one of the more substantive state reforms.",
-   "sources": []
+   "sources": [],
+   "ts": 2400
   },
   {
    "episode": "E1",
@@ -911,7 +951,8 @@
     "https://www.capitalspectator.com/managing-expectations-by-simulating-sp-500-drawdowns/",
     "https://www.readkong.com/page/the-covid-crash-of-the-2020-u-s-stock-market-arxiv-9840713"
    ],
-   "id": 41
+   "id": 41,
+   "ts": 360
   },
   {
    "episode": "E1",
@@ -934,7 +975,8 @@
     "https://archive.cdc.gov/www_cdc_gov/coronavirus/2019-ncov/hcp/planning-scenarios-h_1.pdf",
     "https://reason.com/volokh/2020/07/13/cdcs-latest-estimated-covid-19-infection-fatality-ratio-0-65/"
    ],
-   "id": 42
+   "id": 42,
+   "ts": 1500
   },
   {
    "episode": "E1",
@@ -957,7 +999,8 @@
     "https://www.gov.ca.gov/2020/05/04/governor-newsom-provides-update-on-californias-progress-toward-stage-2-reopening/",
     "https://sf.eater.com/2020/9/29/21494180/san-francisco-restaurant-dining-rooms-reopening-coronavirus-covid-19-orange"
    ],
-   "id": 43
+   "id": 43,
+   "ts": 5100
   },
   {
    "episode": "E1",
@@ -980,7 +1023,8 @@
     "https://sf.eater.com/2020/9/29/21494180/san-francisco-restaurant-dining-rooms-reopening-coronavirus-covid-19-orange",
     "https://sf.eater.com/2020/11/10/21558821/san-francisco-indoor-dining-shutdown-ban-coronavirus"
    ],
-   "id": 44
+   "id": 44,
+   "ts": 4980
   },
   {
    "episode": "E1",
@@ -1002,7 +1046,8 @@
    "sources": [
     "https://archive.cdc.gov/www_cdc_gov/coronavirus/2019-ncov/hcp/planning-scenarios-h_1.pdf"
    ],
-   "id": 45
+   "id": 45,
+   "ts": 600
   },
   {
    "episode": "E1",
@@ -1024,7 +1069,8 @@
    "sources": [
     "https://archive.cdc.gov/www_cdc_gov/coronavirus/2019-ncov/hcp/planning-scenarios-7-10-2020.html"
    ],
-   "id": 46
+   "id": 46,
+   "ts": 2100
   },
   {
    "episode": "E1",
@@ -1047,7 +1093,8 @@
     "https://nvca.org/press_releases/record-year-for-u-s-venture-capital-industry-despite-pandemic-and-economic-downturn/",
     "https://techcrunch.com/2021/01/19/in-2020-vcs-invested-428m-into-us-based-startups-every-day/"
    ],
-   "id": 47
+   "id": 47,
+   "ts": 2400
   },
   {
    "episode": "E1",
@@ -1069,7 +1116,8 @@
    "sources": [
     "https://www.ecb.europa.eu/press/economic-bulletin/focus/2021/html/ecb.ebbox202105_03~267ada0d38.en.html"
    ],
-   "id": 48
+   "id": 48,
+   "ts": 3300
   },
   {
    "episode": "E2",
@@ -1092,7 +1140,8 @@
     "https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf",
     "https://stacks.cdc.gov/view/cdc/121469/cdc_121469_DS1.pdf"
    ],
-   "id": 49
+   "id": 49,
+   "ts": 3000
   },
   {
    "episode": "E2",
@@ -1115,7 +1164,8 @@
     "https://www.npr.org/sections/health-shots/2020/06/18/879787448/as-states-reopen-do-they-have-the-workforce-they-need-to-stop-coronavirus-outbre",
     "https://www.pressherald.com/2020/06/10/states-are-wrestling-on-their-own-with-how-to-expand-testing-with-little-guidance-from-trump-administration/"
    ],
-   "id": 50
+   "id": 50,
+   "ts": 1800
   },
   {
    "episode": "E2",
@@ -1137,7 +1187,8 @@
    "sources": [
     "https://www.fda.gov/media/144412/download"
    ],
-   "id": 51
+   "id": 51,
+   "ts": 2100
   },
   {
    "episode": "E2",
@@ -1159,7 +1210,8 @@
    "sources": [
     "https://www.bea.gov/news/2021/gross-domestic-product-2nd-quarter-2021-second-estimate-corporate-profits-2nd-quarter"
    ],
-   "id": 52
+   "id": 52,
+   "ts": 2160
   },
   {
    "episode": "E2",
@@ -1181,7 +1233,8 @@
    "sources": [
     "https://www.gov.ca.gov/2020/05/07/governor-newsom-releases-updated-industry-guidance/"
    ],
-   "id": 53
+   "id": 53,
+   "ts": 2880
   },
   {
    "episode": "E2",
@@ -1204,7 +1257,8 @@
     "https://www.cnbc.com/2020/04/16/small-business-rescue-loan-program-hits-349-billion-limit-and-is-now-out-of-money.html",
     "https://www.pbs.org/newshour/politics/it-took-13-days-for-the-paycheck-protection-program-to-run-out-of-money-what-comes-next"
    ],
-   "id": 54
+   "id": 54,
+   "ts": 2520
   },
   {
    "episode": "E2",
@@ -1227,7 +1281,8 @@
     "https://www.crfb.org/project/covid-money-tracker",
     "https://www.crfb.org/blogs/breaking-down-34-trillion-covid-relief"
    ],
-   "id": 55
+   "id": 55,
+   "ts": 3300
   },
   {
    "episode": "E4",
@@ -1250,7 +1305,8 @@
    "episode_date": "2020-06-20",
    "episode_title": "E4: Politicizing the pandemic, Police reform, Biden's ideal VP, Twitter vs. Facebook on free speech & more with David Sacks & David Friedberg",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E004.mp3?dest-id=1928300",
-   "weight": 16
+   "weight": 16,
+   "ts": 3600
   },
   {
    "episode": "E4",
@@ -1273,7 +1329,8 @@
    "episode_date": "2020-06-20",
    "episode_title": "E4: Politicizing the pandemic, Police reform, Biden's ideal VP, Twitter vs. Facebook on free speech & more with David Sacks & David Friedberg",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E004.mp3?dest-id=1928300",
-   "weight": 12
+   "weight": 12,
+   "ts": 3660
   },
   {
    "episode": "E4",
@@ -1295,7 +1352,8 @@
    "episode_date": "2020-06-20",
    "episode_title": "E4: Politicizing the pandemic, Police reform, Biden's ideal VP, Twitter vs. Facebook on free speech & more with David Sacks & David Friedberg",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E004.mp3?dest-id=1928300",
-   "weight": 3
+   "weight": 3,
+   "ts": 3720
   },
   {
    "episode": "E4",
@@ -1318,7 +1376,8 @@
    "episode_date": "2020-06-20",
    "episode_title": "E4: Politicizing the pandemic, Police reform, Biden's ideal VP, Twitter vs. Facebook on free speech & more with David Sacks & David Friedberg",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E004.mp3?dest-id=1928300",
-   "weight": 15
+   "weight": 15,
+   "ts": 3840
   },
   {
    "episode": "E4",
@@ -1340,7 +1399,8 @@
    "episode_date": "2020-06-20",
    "episode_title": "E4: Politicizing the pandemic, Police reform, Biden's ideal VP, Twitter vs. Facebook on free speech & more with David Sacks & David Friedberg",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E004.mp3?dest-id=1928300",
-   "weight": 6
+   "weight": 6,
+   "ts": 3840
   },
   {
    "episode": "E4",
@@ -1362,7 +1422,8 @@
    "episode_date": "2020-06-20",
    "episode_title": "E4: Politicizing the pandemic, Police reform, Biden's ideal VP, Twitter vs. Facebook on free speech & more with David Sacks & David Friedberg",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E004.mp3?dest-id=1928300",
-   "weight": 15
+   "weight": 15,
+   "ts": 3900
   },
   {
    "episode": "E4",
@@ -1385,7 +1446,8 @@
    "episode_date": "2020-06-20",
    "episode_title": "E4: Politicizing the pandemic, Police reform, Biden's ideal VP, Twitter vs. Facebook on free speech & more with David Sacks & David Friedberg",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E004.mp3?dest-id=1928300",
-   "weight": 20
+   "weight": 20,
+   "ts": 4020
   },
   {
    "episode": "E4",
@@ -1408,7 +1470,8 @@
    "episode_date": "2020-06-20",
    "episode_title": "E4: Politicizing the pandemic, Police reform, Biden's ideal VP, Twitter vs. Facebook on free speech & more with David Sacks & David Friedberg",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E004.mp3?dest-id=1928300",
-   "weight": 15
+   "weight": 15,
+   "ts": 4080
   },
   {
    "episode": "E4",
@@ -1431,7 +1494,8 @@
    "episode_date": "2020-06-20",
    "episode_title": "E4: Politicizing the pandemic, Police reform, Biden's ideal VP, Twitter vs. Facebook on free speech & more with David Sacks & David Friedberg",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E004.mp3?dest-id=1928300",
-   "weight": 12
+   "weight": 12,
+   "ts": 3960
   },
   {
    "episode": "E4",
@@ -1453,7 +1517,8 @@
    "episode_date": "2020-06-20",
    "episode_title": "E4: Politicizing the pandemic, Police reform, Biden's ideal VP, Twitter vs. Facebook on free speech & more with David Sacks & David Friedberg",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E004.mp3?dest-id=1928300",
-   "weight": 16
+   "weight": 16,
+   "ts": 4200
   },
   {
    "episode": "E4",
@@ -1475,7 +1540,8 @@
    "episode_date": "2020-06-20",
    "episode_title": "E4: Politicizing the pandemic, Police reform, Biden's ideal VP, Twitter vs. Facebook on free speech & more with David Sacks & David Friedberg",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E004.mp3?dest-id=1928300",
-   "weight": 9
+   "weight": 9,
+   "ts": 2400
   },
   {
    "episode": "E4",
@@ -1498,7 +1564,8 @@
    "episode_date": "2020-06-20",
    "episode_title": "E4: Politicizing the pandemic, Police reform, Biden's ideal VP, Twitter vs. Facebook on free speech & more with David Sacks & David Friedberg",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E004.mp3?dest-id=1928300",
-   "weight": 12
+   "weight": 12,
+   "ts": 900
   },
   {
    "episode": "E4",
@@ -1521,7 +1588,8 @@
    "episode_date": "2020-06-20",
    "episode_title": "E4: Politicizing the pandemic, Police reform, Biden's ideal VP, Twitter vs. Facebook on free speech & more with David Sacks & David Friedberg",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E004.mp3?dest-id=1928300",
-   "weight": 9
+   "weight": 9,
+   "ts": 300
   },
   {
    "episode": "E4",
@@ -1543,7 +1611,8 @@
    "episode_date": "2020-06-20",
    "episode_title": "E4: Politicizing the pandemic, Police reform, Biden's ideal VP, Twitter vs. Facebook on free speech & more with David Sacks & David Friedberg",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E004.mp3?dest-id=1928300",
-   "weight": 4
+   "weight": 4,
+   "ts": 360
   },
   {
    "episode": "E5",
@@ -1566,7 +1635,8 @@
    "episode_date": "2020-07-11",
    "episode_title": "E5: WHO's incompetence, kicking off Cold War II, China's grand plan, 100X'ing America's efficiency",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E005.mp3?dest-id=1928300",
-   "weight": 9
+   "weight": 9,
+   "ts": 1500
   },
   {
    "episode": "E5",
@@ -1588,7 +1658,8 @@
    "episode_date": "2020-07-11",
    "episode_title": "E5: WHO's incompetence, kicking off Cold War II, China's grand plan, 100X'ing America's efficiency",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E005.mp3?dest-id=1928300",
-   "weight": 16
+   "weight": 16,
+   "ts": 1560
   },
   {
    "episode": "E5",
@@ -1611,7 +1682,8 @@
    "episode_date": "2020-07-11",
    "episode_title": "E5: WHO's incompetence, kicking off Cold War II, China's grand plan, 100X'ing America's efficiency",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E005.mp3?dest-id=1928300",
-   "weight": 6
+   "weight": 6,
+   "ts": 1620
   },
   {
    "episode": "E5",
@@ -1633,7 +1705,8 @@
    "episode_date": "2020-07-11",
    "episode_title": "E5: WHO's incompetence, kicking off Cold War II, China's grand plan, 100X'ing America's efficiency",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E005.mp3?dest-id=1928300",
-   "weight": 9
+   "weight": 9,
+   "ts": 1680
   },
   {
    "episode": "E5",
@@ -1656,7 +1729,8 @@
    "episode_date": "2020-07-11",
    "episode_title": "E5: WHO's incompetence, kicking off Cold War II, China's grand plan, 100X'ing America's efficiency",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E005.mp3?dest-id=1928300",
-   "weight": 6
+   "weight": 6,
+   "ts": 1800
   },
   {
    "episode": "E5",
@@ -1679,7 +1753,8 @@
    "episode_date": "2020-07-11",
    "episode_title": "E5: WHO's incompetence, kicking off Cold War II, China's grand plan, 100X'ing America's efficiency",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E005.mp3?dest-id=1928300",
-   "weight": 12
+   "weight": 12,
+   "ts": 3000
   },
   {
    "episode": "E5",
@@ -1699,7 +1774,8 @@
    "episode_date": "2020-07-11",
    "episode_title": "E5: WHO's incompetence, kicking off Cold War II, China's grand plan, 100X'ing America's efficiency",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E005.mp3?dest-id=1928300",
-   "weight": 6
+   "weight": 6,
+   "ts": 3300
   },
   {
    "episode": "E5",
@@ -1721,7 +1797,8 @@
    "episode_date": "2020-07-11",
    "episode_title": "E5: WHO's incompetence, kicking off Cold War II, China's grand plan, 100X'ing America's efficiency",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E005.mp3?dest-id=1928300",
-   "weight": 2
+   "weight": 2,
+   "ts": 3600
   },
   {
    "episode": "E5",
@@ -1743,7 +1820,8 @@
    "episode_date": "2020-07-11",
    "episode_title": "E5: WHO's incompetence, kicking off Cold War II, China's grand plan, 100X'ing America's efficiency",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E005.mp3?dest-id=1928300",
-   "weight": 9
+   "weight": 9,
+   "ts": 3660
   },
   {
    "episode": "E5",
@@ -1766,7 +1844,8 @@
    "episode_date": "2020-07-11",
    "episode_title": "E5: WHO's incompetence, kicking off Cold War II, China's grand plan, 100X'ing America's efficiency",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E005.mp3?dest-id=1928300",
-   "weight": 9
+   "weight": 9,
+   "ts": 3780
   },
   {
    "episode": "E5",
@@ -1788,7 +1867,8 @@
    "episode_date": "2020-07-11",
    "episode_title": "E5: WHO's incompetence, kicking off Cold War II, China's grand plan, 100X'ing America's efficiency",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E005.mp3?dest-id=1928300",
-   "weight": 6
+   "weight": 6,
+   "ts": 3900
   },
   {
    "episode": "E5",
@@ -1810,7 +1890,8 @@
    "episode_date": "2020-07-11",
    "episode_title": "E5: WHO's incompetence, kicking off Cold War II, China's grand plan, 100X'ing America's efficiency",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E005.mp3?dest-id=1928300",
-   "weight": 9
+   "weight": 9,
+   "ts": 4200
   },
   {
    "episode": "E5",
@@ -1832,7 +1913,8 @@
    "episode_date": "2020-07-11",
    "episode_title": "E5: WHO's incompetence, kicking off Cold War II, China's grand plan, 100X'ing America's efficiency",
    "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E005.mp3?dest-id=1928300",
-   "weight": 4
+   "weight": 4,
+   "ts": 4500
   },
   {
    "id": 83,
@@ -1855,7 +1937,8 @@
    "sources": [
     "https://apnews.com/article/google-antitrust-search-engine-verdict-apple-319a61f20fb11510097845a30abaefd8",
     "https://eur-lex.europa.eu/eli/reg/2022/2065/oj/eng"
-   ]
+   ],
+   "ts": 900
   },
   {
    "id": 84,
@@ -1877,7 +1960,8 @@
    "resolution": "Partly right: Nvidia-Arm and Adobe-Figma were abandoned under regulatory pressure. But Microsoft closed the $69B Activision deal (Oct 2023) and Amazon closed MGM, so \"impossible\" overstated it.",
    "sources": [
     "https://www.reuters.com/markets/deals/uk-antitrust-regulator-clears-microsofts-acquisition-activision-2023-10-13/"
-   ]
+   ],
+   "ts": 1500
   },
   {
    "id": 85,
@@ -1899,7 +1983,8 @@
    "resolution": "Substack hit 1M+ paid subscriptions by Nov 2021 and kept growing into a major independent-media platform.",
    "sources": [
     "https://www.forbes.com/sites/marisadellatto/2021/11/15/substack-announces-one-million-paid-subscribers/"
-   ]
+   ],
+   "ts": 2700
   },
   {
    "id": 86,
@@ -1921,7 +2006,8 @@
    "resolution": "EU passed the DSA (2022) and DMA; the US brought major antitrust suits against Google, Meta, Amazon, and Apple.",
    "sources": [
     "https://eur-lex.europa.eu/eli/reg/2022/2065/oj/eng"
-   ]
+   ],
+   "ts": 3000
   },
   {
    "id": 87,
@@ -1943,7 +2029,8 @@
    "resolution": "Faster than called: the FTC and 17 states sued Amazon in Sept 2023, about 3 years later, not 5-10.",
    "sources": [
     "https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power"
-   ]
+   ],
+   "ts": 4200
   },
   {
    "id": 88,
@@ -1966,7 +2053,8 @@
    "sources": [
     "https://github.com/nytimes/covid-19-data/blob/master/rolling-averages/us.csv",
     "https://stacks.cdc.gov/view/cdc/94098"
-   ]
+   ],
+   "ts": 4200
   },
   {
    "id": 89,
@@ -1989,7 +2077,8 @@
    "sources": [
     "https://www.archives.gov/electoral-college/2020",
     "https://www.fda.gov/media/144412/download"
-   ]
+   ],
+   "ts": 4500
   },
   {
    "id": 90,
@@ -2012,7 +2101,8 @@
    "sources": [
     "https://www.nejm.org/doi/full/10.1056/NEJMoa2034577",
     "https://www.fda.gov/media/144412/download"
-   ]
+   ],
+   "ts": 4800
   },
   {
    "id": 91,
@@ -2034,7 +2124,8 @@
    "resolution": "Biden won 306-232. Note: Friedberg flipped to Biden later in the same episode; the recorded bet is the stated one.",
    "sources": [
     "https://www.archives.gov/electoral-college/2020"
-   ]
+   ],
+   "ts": 4800
   },
   {
    "id": 92,
@@ -2056,7 +2147,8 @@
    "resolution": "Biden won 306-232 electoral votes.",
    "sources": [
     "https://www.archives.gov/electoral-college/2020"
-   ]
+   ],
+   "ts": 4800
   },
   {
    "id": 93,
@@ -2078,7 +2170,8 @@
    "resolution": "Biden won 306-232 electoral votes.",
    "sources": [
     "https://www.archives.gov/electoral-college/2020"
-   ]
+   ],
+   "ts": 4800
   },
   {
    "id": 94,
@@ -2101,7 +2194,8 @@
    "sources": [
     "https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/html-submitted/rec.html",
     "https://www.archives.gov/electoral-college/2020"
-   ]
+   ],
+   "ts": 4920
   },
   {
    "id": 95,
@@ -2123,7 +2217,8 @@
    "resolution": "306-232 with no faithless-elector or recount dispute changing any state; called by networks Nov 7.",
    "sources": [
     "https://www.archives.gov/electoral-college/2020"
-   ]
+   ],
+   "ts": 4920
   },
   {
    "id": 96,
@@ -2145,7 +2240,8 @@
    "resolution": "A ~$900B relief package was signed Dec 27, 2020, followed by the $1.9T ARP in Mar 2021.",
    "sources": [
     "https://apnews.com/article/donald-trump-politics-coronavirus-pandemic-2a2645e52fda774ae8f1443b4dffc82e"
-   ]
+   ],
+   "ts": 5400
   },
   {
    "id": 97,
@@ -2167,7 +2263,8 @@
    "resolution": "Apple launched App Tracking Transparency (Apr 2021), reshaping ad-tech; privacy became a core marketing axis across the industry.",
    "sources": [
     "https://www.apple.com/newsroom/2021/04/ios-14-5-offers-unlock-iphone-with-apple-watch-diverse-siri-voices-and-more/"
-   ]
+   ],
+   "ts": 900
   },
   {
    "id": 98,
@@ -2190,7 +2287,8 @@
    "sources": [
     "https://www.wsj.com/articles/tiktok-sale-to-oracle-walmart-is-shelved-as-biden-reviews-security-11612958401",
     "https://www.supremecourt.gov/opinions/24pdf/24-656%5Fnew%5F3dq3.pdf"
-   ]
+   ],
+   "ts": 900
   },
   {
    "id": 99,
@@ -2213,7 +2311,8 @@
    "sources": [
     "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230726a.htm",
     "https://www.reuters.com/markets/rates-bonds/fed-poised-hike-rates-markets-anticipate-inflation-endgame-2023-07-26/"
-   ]
+   ],
+   "ts": 1500
   },
   {
    "id": 100,
@@ -2235,7 +2334,8 @@
    "resolution": "Unemployment returned to its pre-pandemic level (~3.5%) in 2022 amid a labor shortage.",
    "sources": [
     "https://www.bls.gov/opub/mlr/2023/article/unemployment-rate-returned-to-its-prepandemic-level-in-2022.htm"
-   ]
+   ],
+   "ts": 2100
   },
   {
    "id": 101,
@@ -2257,7 +2357,8 @@
    "resolution": "Correct for the US: only targeted regional orders (e.g. California, Dec 2020) while Europe did re-enter lockdowns.",
    "sources": [
     "https://www.reuters.com/world/france-germany-thrust-into-lockdown-second-covid-19-wave-sweeps-europe-2020-10-28/"
-   ]
+   ],
+   "ts": 2100
   },
   {
    "id": 102,
@@ -2279,7 +2380,8 @@
    "resolution": "Final US toll was ~1.1M over the full pandemic, well below the 2-3M early worst-case estimates.",
    "sources": [
     "https://www.cdc.gov/nchs/covid19/mortality-overview.htm"
-   ]
+   ],
+   "ts": 2100
   },
   {
    "id": 103,
@@ -2301,7 +2403,8 @@
    "resolution": "Broad reopening came June 2021 (earlier than called), but full normalization of crowds/travel ran into 2022, inside his window.",
    "sources": [
     "https://www.nytimes.com/2021/06/15/nyregion/coronavirus-restrictions.html"
-   ]
+   ],
+   "ts": 2100
   },
   {
    "id": 104,
@@ -2323,7 +2426,8 @@
    "resolution": "Remote/hybrid work stuck permanently; Gallup documents the hybrid office as the settled norm.",
    "sources": [
     "https://www.gallup.com/workplace/511994/future-office-arrived-hybrid.aspx"
-   ]
+   ],
+   "ts": 2100
   },
   {
    "id": 105,
@@ -2345,7 +2449,8 @@
    "resolution": "June 2021 brought broad reopening (NY and CA lifted most restrictions); the Delta wave later that summer is the caveat.",
    "sources": [
     "https://www.nytimes.com/2021/06/15/nyregion/coronavirus-restrictions.html"
-   ]
+   ],
+   "ts": 2400
   },
   {
    "id": 106,
@@ -2368,7 +2473,8 @@
    "sources": [
     "https://www.lse.ac.uk/management/assets/documents/research/flex-index-reports/Flex-Report-Q4-2023.pdf",
     "https://www.gallup.com/workplace/511994/future-office-arrived-hybrid.aspx"
-   ]
+   ],
+   "ts": 2400
   },
   {
    "id": 107,
@@ -2390,7 +2496,8 @@
    "resolution": "Biden won; pandemic handling was a top voter concern that cut against Trump.",
    "sources": [
     "https://www.archives.gov/electoral-college/2020"
-   ]
+   ],
+   "ts": 2400
   },
   {
    "id": 108,
@@ -2412,7 +2519,8 @@
    "resolution": "Home rapid tests became widespread in late 2021, but the venue-swab regime never materialized and mass distribution came via government mailing free tests (Jan 2022).",
    "sources": [
     "https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/14/background-press-call-on-the-rollout-of-500-million-free-tests-to-american-homes/"
-   ]
+   ],
+   "ts": 2400
   },
   {
    "id": 109,
@@ -2434,7 +2542,8 @@
    "resolution": "Biden won 306-232 electoral votes.",
    "sources": [
     "https://www.archives.gov/electoral-college/2020"
-   ]
+   ],
+   "ts": 3300
   },
   {
    "id": 110,
@@ -2454,7 +2563,8 @@
    "accuracy": null,
    "weight": 9,
    "resolution": "Horizon: ~2030. Check back. Alt-meat hype has so far collapsed (Beyond Meat down ~98% from peak), which cuts against it.",
-   "sources": []
+   "sources": [],
+   "ts": 3600
   },
   {
    "id": 111,
@@ -2474,7 +2584,8 @@
    "accuracy": 0,
    "weight": 4,
    "resolution": "Self-confessed on air. Beyond Meat's 2019 IPO popped 163%, validating premium demand at the time; note the category later collapsed from 2021 peaks.",
-   "sources": []
+   "sources": [],
+   "ts": 3480
   }
  ],
  "leaderboard": [
@@ -2510,5 +2621,148 @@
    "partial": 1,
    "wrong": 6
   }
- ]
+ ],
+ "profiles": {
+  "updated": "2026-09-09",
+  "note": "AI-generated analysis from the measured grades below; refreshed as new episodes are graded.",
+  "by_speaker": {
+   "Chamath": {
+    "graded": 46,
+    "ungraded": 0,
+    "avg_boldness": 3.2,
+    "strengths": [
+     "Policy (80, 2 graded)",
+     "Tech (74, 6 graded)",
+     "Politics (59, 9 graded)"
+    ],
+    "weaknesses": [
+     "Geopolitics (30, 3 graded)",
+     "COVID (30, 6 graded)",
+     "Health (20, 2 graded)",
+     "Markets (18, 7 graded)",
+     "Macro (15, 3 graded)"
+    ],
+    "best_id": 61,
+    "best_claim": "Trump loses the 2020 election - 75/25 odds",
+    "worst_id": 8,
+    "worst_claim": "More people will die from second- and third-order economic effects than from the virus itself",
+    "summary": "The volume shooter - more graded takes than anyone else on the panel and the boldest on average. When he stays in his lane (tech, startups, policy mechanics) he is genuinely strong; his disasters come from macro market timing, including the March 2020 bottom call that missed by about seven months and the S&P 2,000 that never happened. The trend is his friend: he improved every quarter of 2020."
+   },
+   "Friedberg": {
+    "graded": 24,
+    "ungraded": 5,
+    "avg_boldness": 2.9,
+    "strengths": [
+     "Health (91, 6 graded)"
+    ],
+    "weaknesses": [
+     "Politics (10, 3 graded)"
+    ],
+    "best_id": 56,
+    "best_claim": "A staged COVID vaccine release will begin in Q4 2020, with doses available for healthcare and frontline workers by end of year",
+    "worst_id": 62,
+    "worst_claim": "Trump still wins the 2020 election - 70% chance",
+    "summary": "The scientist. The single best topic score on the board is his health calls - he nailed the vaccine timeline and the fatality-rate band while those were still genuinely uncertain. His kryptonite is electoral politics: the '70% Trump' call is the biggest-weight miss on his card. He fades when the show leaves his lane."
+   },
+   "Sacks": {
+    "graded": 27,
+    "ungraded": 0,
+    "avg_boldness": 2.9,
+    "strengths": [
+     "COVID (100, 5 graded)",
+     "Geopolitics (90, 4 graded)",
+     "Health (80, 2 graded)"
+    ],
+    "weaknesses": [
+     "Politics (29, 8 graded)"
+    ],
+    "best_id": 49,
+    "best_claim": "Imperial College's 2.2 million US death projection was insane fear-mongering, and that has been borne out",
+    "worst_id": 31,
+    "worst_claim": "PREDICTION: no new gun-control legislation for a generation",
+    "summary": "The most disciplined caller on the panel and the current #1. Perfect on COVID policy (lockdown skepticism, the Imperial College takedown) and strong on China decoupling. His misses cluster in electoral politics - the 'no gun-control legislation for a generation' pledge died in June 2022. No bad quarter all year."
+   },
+   "Jason": {
+    "graded": 9,
+    "ungraded": 0,
+    "avg_boldness": 2.9,
+    "strengths": [
+     "Politics (62, 3 graded)"
+    ],
+    "weaknesses": [
+     "COVID (0, 3 graded)",
+     "Markets (0, 2 graded)"
+    ],
+    "best_id": 63,
+    "best_claim": "Biden wins the 2020 election, and wins big",
+    "worst_id": 89,
+    "worst_claim": "Vaccine progress plus the debates means Trump sails to re-election",
+    "summary": "Boom or bust on the smallest sample on the board. He made the single best election call of the year - 'Biden wins big' - while going 0-for on COVID and markets. Treat the score as provisional: his sample is about a third of anyone else's."
+   }
+  }
+ },
+ "trends": {
+  "periods": [
+   "2020-Q1",
+   "2020-Q2",
+   "2020-Q3"
+  ],
+  "by_speaker": {
+   "Chamath": {
+    "2020-Q1": {
+     "score": 14,
+     "graded": 10
+    },
+    "2020-Q2": {
+     "score": 41,
+     "graded": 14
+    },
+    "2020-Q3": {
+     "score": 59,
+     "graded": 22
+    }
+   },
+   "Friedberg": {
+    "2020-Q1": {
+     "score": 60,
+     "graded": 8
+    },
+    "2020-Q2": {
+     "score": 60,
+     "graded": 7
+    },
+    "2020-Q3": {
+     "score": 38,
+     "graded": 9
+    }
+   },
+   "Sacks": {
+    "2020-Q2": {
+     "score": 64,
+     "graded": 11
+    },
+    "2020-Q3": {
+     "score": 61,
+     "graded": 16
+    }
+   },
+   "Jason": {
+    "2020-Q1": {
+     "score": 0,
+     "graded": 3
+    },
+    "2020-Q2": {
+     "score": 81,
+     "graded": 2
+    },
+    "2020-Q3": {
+     "score": 25,
+     "graded": 4
+    }
+   }
+  },
+  "updated": "2026-09-09",
+  "note": "AI-generated commentary on measured quarterly scores; switches to annual as multi-year coverage lands.",
+  "commentary": "The arc of 2020 so far: Chamath started the pandemic catastrophically wrong (14 in Q1 - the market-bottom and death-toll calls) and improved every quarter (59 by Q3). Friedberg moved the other way - brilliant on early COVID science, fading as the show turned to politics (60 to 38). Sacks held steady at the top all year. Jason swings hard on a thin sample. Annual drift becomes visible once 2021+ episodes land."
+ }
 }
