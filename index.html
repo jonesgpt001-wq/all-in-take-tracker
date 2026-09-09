@@ -116,7 +116,7 @@ function setF(k,v){fs[k]=v;drawFilters();drawList();}
 function drawList(){
  const rows=D.predictions.filter(p=>(fs.speaker==='all'||p.speaker===fs.speaker)&&(fs.status==='all'||p.status===fs.status));
  document.getElementById('list').innerHTML=rows.map(p=>`<div class="pred">
- <div class="top"><span class="meta"><b style="color:var(--txt)">${p.speaker}</b> &middot; ${p.episode} (${p.episode_date}) &middot; <a class="lis" href="${p.audio_url}#t=${p.ts}" target="_blank" rel="noopener" title="Hear this take in the episode audio">${p.time} &#9654;</a> &middot; attribution: ${p.attribution}</span>
+ <div class="top"><span class="meta"><b style="color:var(--txt)">${p.speaker}</b> &middot; ${p.episode} (${p.episode_date}) &middot; <a class="lis" href="${p.audio_url}#t=${p.ts}" target="_blank" rel="noopener" title="Hear this take in the episode audio">${p.time} &#9654;</a> &middot; <a class="lis" href="transcripts/${p.episode}.html#p${p.id}" target="_blank" rel="noopener" title="Read the transcript excerpt around this take">transcript</a> &middot; attribution: ${p.attribution}</span>
  <span class="badge ${p.status}">${statusLabel[p.status]}</span></div>
  <div class="claim">${p.claim}</div>
  <div class="quote">&ldquo;${p.quote}&rdquo;</div>
