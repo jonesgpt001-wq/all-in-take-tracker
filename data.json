@@ -45,6 +45,16 @@
    "title": "E8: TikTok + Oracle, how privacy loss will impact society, economy & COVID outlooks for 2021 & beyond, California wildfires & more",
    "date": "2020-09-19",
    "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E008.mp3?dest-id=1928300"
+  },
+  "E9": {
+   "title": "E9: Trump has COVID, First debate reactions, Coinbase letter response & more",
+   "date": "2020-10-03",
+   "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E009.mp3?dest-id=1928300"
+  },
+  "E10": {
+   "title": "E10: Twitter & Facebook botch censorship (again), the publisher vs. distributor debate & more",
+   "date": "2020-10-16",
+   "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E010.mp3?dest-id=1928300"
   }
  },
  "predictions": [
@@ -2586,40 +2596,462 @@
    "resolution": "Self-confessed on air. Beyond Meat's 2019 IPO popped 163%, validating premium demand at the time; note the category later collapsed from 2021 peaks.",
    "sources": [],
    "ts": 3480
+  },
+  {
+   "id": 112,
+   "episode": "E9",
+   "episode_date": "2020-10-03",
+   "episode_title": "E9: Trump has COVID, First debate reactions, Coinbase letter response & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E009.mp3?dest-id=1928300",
+   "time": "~13m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Trump's COVID case is over in about a week (50%+ odds)",
+   "quote": "I'd say it's probably like at least 50% that this is over for him in about a week",
+   "topic": "COVID",
+   "boldness": 3,
+   "importance": 3,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 9,
+   "resolution": "Discharged from Walter Reed Oct 5 after 3 days and back at public events within about 10 days - the headline scenario hit, though the 'political advantage' rider didn't.",
+   "sources": [
+    "https://www.reuters.com/article/world/americas/timeline-history-of-trumps-covid-19-illness-idUSKBN26U298/"
+   ],
+   "ts": 780
+  },
+  {
+   "id": 113,
+   "episode": "E9",
+   "episode_date": "2020-10-03",
+   "episode_title": "E9: Trump has COVID, First debate reactions, Coinbase letter response & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E009.mp3?dest-id=1928300",
+   "time": "~4m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "Trump getting COVID guarantees fully transparent treatment data and broad access to the same cure, soon",
+   "quote": "it's now basically 100% guaranteed that we will have all of the most transparent data about coronavirus soon",
+   "topic": "COVID",
+   "boldness": 4,
+   "importance": 2,
+   "status": "partial",
+   "accuracy": 0.5,
+   "weight": 8,
+   "resolution": "Regeneron's cocktail got FDA emergency authorization Nov 21, 2020 and its trial data was published, but supply stayed scarce for months and politicized treatment debates never stopped. '100% guaranteed transparency' never arrived.",
+   "sources": [
+    "https://www.cnn.com/2020/11/21/health/regeneron-fda-clearance-trump-coronavirus"
+   ],
+   "ts": 240
+  },
+  {
+   "id": 114,
+   "episode": "E9",
+   "episode_date": "2020-10-03",
+   "episode_title": "E9: Trump has COVID, First debate reactions, Coinbase letter response & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E009.mp3?dest-id=1928300",
+   "time": "~7m",
+   "speaker": "Friedberg",
+   "attribution": "high",
+   "claim": "Annual polyclonal antibody cocktails will replace flu shots within 10-15 years",
+   "quote": "I think that is the future of infectious disease, is we're all going to get a polyclonal cocktail every year, instead of getting a flu shot",
+   "topic": "Science",
+   "boldness": 4,
+   "importance": 3,
+   "status": "pending",
+   "accuracy": null,
+   "weight": 12,
+   "resolution": "Long-horizon call (10-15 years from 2020). Monoclonal antibodies and mRNA both advanced, but no annual synthetic-antibody cocktail product exists as of September 2026.",
+   "sources": [],
+   "ts": 420
+  },
+  {
+   "id": 115,
+   "episode": "E9",
+   "episode_date": "2020-10-03",
+   "episode_title": "E9: Trump has COVID, First debate reactions, Coinbase letter response & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E009.mp3?dest-id=1928300",
+   "time": "~31m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "Biden will serve one term only - four years and no more",
+   "quote": "he's going to be here for four years cuz that's the right, responsible thing to do, but no more",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 3,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 9,
+   "resolution": "Biden formally launched his 2024 re-election campaign in April 2023 and ran for a second term, exiting only on July 21, 2024 under party pressure.",
+   "sources": [
+    "https://apnews.com/article/biden-drops-out-2024-election-ddffde72838370032bdcff946cfc2ce6",
+    "https://en.wikipedia.org/wiki/Joe_Biden_2024_presidential_campaign"
+   ],
+   "ts": 1860
+  },
+  {
+   "id": 116,
+   "episode": "E9",
+   "episode_date": "2020-10-03",
+   "episode_title": "E9: Trump has COVID, First debate reactions, Coinbase letter response & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E009.mp3?dest-id=1928300",
+   "time": "~32m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "If Democrats win Congress, Biden won't restrain the left - he'll sign whatever they pass",
+   "quote": "if the Democrats win Congress, he'll sign whatever they they pass",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 3,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 9,
+   "resolution": "With a Democratic Congress in 2021-22 Biden signed the $1.9T American Rescue Plan and the Inflation Reduction Act; the centrist restraint Chamath predicted never materialized (it took Sen. Manchin, not Biden, to block Build Back Better).",
+   "sources": [
+    "https://www.cnn.com/2022/08/16/politics/biden-inflation-reduction-act-signing",
+    "https://www.govinfo.gov/content/pkg/PLAW-117publ2/pdf/PLAW-117publ2.pdf"
+   ],
+   "ts": 1920
+  },
+  {
+   "id": 117,
+   "episode": "E9",
+   "episode_date": "2020-10-03",
+   "episode_title": "E9: Trump has COVID, First debate reactions, Coinbase letter response & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E009.mp3?dest-id=1928300",
+   "time": "~44m",
+   "speaker": "Friedberg",
+   "attribution": "medium",
+   "claim": "Coinbase's clearly-defined no-politics culture does exactly what Armstrong hoped - some leave, better-fit talent joins",
+   "quote": "he'll do exactly what he's hoping to do, which is to get people to leave and to attract other people that better fit with that cultural model",
+   "topic": "Tech",
+   "boldness": 3,
+   "importance": 2,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 6,
+   "resolution": "About 60 employees (~5%) took the severance; Coinbase went public April 2021 at a ~$86B valuation and kept hiring - no talent collapse followed the policy.",
+   "sources": [
+    "https://www.coindesk.com/business/2020/10/08/5-of-coinbase-employees-take-severance-offer-over-apolitical-stance"
+   ],
+   "ts": 2640
+  },
+  {
+   "id": 118,
+   "episode": "E9",
+   "episode_date": "2020-10-03",
+   "episode_title": "E9: Trump has COVID, First debate reactions, Coinbase letter response & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E009.mp3?dest-id=1928300",
+   "time": "~62m",
+   "speaker": "Friedberg",
+   "attribution": "high",
+   "claim": "Super bullish on the economy and tech going into 2021",
+   "quote": "I'm super bullish on the economy. I'm super bullish on tech.",
+   "topic": "Economy",
+   "boldness": 2,
+   "importance": 3,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 6,
+   "resolution": "2021 delivered: US GDP grew about 5.7% (best since 1984) and the S&P 500 gained roughly 27%.",
+   "sources": [
+    "https://www.reuters.com/world/us/us-economy-regained-speed-q4-2021-growth-best-since-1984-2022-01-27/"
+   ],
+   "ts": 3720
+  },
+  {
+   "id": 119,
+   "episode": "E9",
+   "episode_date": "2020-10-03",
+   "episode_title": "E9: Trump has COVID, First debate reactions, Coinbase letter response & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E009.mp3?dest-id=1928300",
+   "time": "~63m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "San Francisco's loss will be America's gain - tech companies spread across the US",
+   "quote": "San Francisco's loss is going to be America's gain... tech companies are going to be all over the US now",
+   "topic": "Tech",
+   "boldness": 3,
+   "importance": 3,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 9,
+   "resolution": "Oracle moved its HQ to Texas in Dec 2020, Tesla to Austin in 2021, and Miami/Austin became documented tech magnets through 2021-22.",
+   "sources": [
+    "https://www.reuters.com/business/oracle-moves-headquarters-texas-silicon-valley-2020-12-11/",
+    "https://techcrunch.com/2021/10/07/elon-musk-announces-tesla-to-move-headquarters-to-austin/",
+    "https://www.nbcnews.com/business/business-news/tech-flight-why-silicon-valley-heading-miami-austin-texas-n1255330"
+   ],
+   "ts": 3780
+  },
+  {
+   "id": 120,
+   "episode": "E9",
+   "episode_date": "2020-10-03",
+   "episode_title": "E9: Trump has COVID, First debate reactions, Coinbase letter response & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E009.mp3?dest-id=1928300",
+   "time": "~64m",
+   "speaker": "Jason",
+   "attribution": "high",
+   "claim": "Biden beats Trump, roughly 65-70% likely",
+   "quote": "Biden 65-35 approaching 70-30",
+   "topic": "Politics",
+   "boldness": 1,
+   "importance": 4,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 4,
+   "resolution": "Biden won 306-232 in the Electoral College and by about 7 million popular votes.",
+   "sources": [
+    "https://politifact.com/factchecks/2021/jan/08/mitch-mcconnell/mitch-mcconnell-says-accurately-joe-bidens-win-was/"
+   ],
+   "ts": 3840
+  },
+  {
+   "id": 121,
+   "episode": "E9",
+   "episode_date": "2020-10-03",
+   "episode_title": "E9: Trump has COVID, First debate reactions, Coinbase letter response & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E009.mp3?dest-id=1928300",
+   "time": "~64m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Trump's true odds beat the ~30% betting line - take the underdog",
+   "quote": "I'd probably take the 30% underdogs, cuz I think, you know, there's there's always things are so in so much turmoil right now that anything can still happen",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 4,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 12,
+   "resolution": "Trump lost by 74 electoral votes and 7 million popular votes; whatever the 'true' probability was, the underdog ticket didn't cash.",
+   "sources": [
+    "https://politifact.com/factchecks/2021/jan/08/mitch-mcconnell/mitch-mcconnell-says-accurately-joe-bidens-win-was/"
+   ],
+   "ts": 3840
+  },
+  {
+   "id": 122,
+   "episode": "E10",
+   "episode_date": "2020-10-16",
+   "episode_title": "E10: Twitter & Facebook botch censorship (again), the publisher vs. distributor debate & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E010.mp3?dest-id=1928300",
+   "time": "~2m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "The Hunter Biden laptop story's provenance doesn't add up - likely a hack, possibly foreign actors",
+   "quote": "the story about how the hard drive ends up with the reporters makes no sense... it was the result of a hack, maybe involving foreign actors",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 3,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 9,
+   "resolution": "The laptop was real: the FBI had it since Dec 2019, a CBS-commissioned forensic analysis verified the data in 2022, and DOJ entered it as evidence at Hunter Biden's 2024 trial. No hack evidence ever emerged.",
+   "sources": [
+    "https://www.cbsnews.com/news/hunter-biden-laptop-data-analysis/",
+    "https://www.cbsnews.com/news/hunter-biden-gun-charges-trial-evidence/"
+   ],
+   "ts": 120
+  },
+  {
+   "id": 123,
+   "episode": "E10",
+   "episode_date": "2020-10-16",
+   "episode_title": "E10: Twitter & Facebook botch censorship (again), the publisher vs. distributor debate & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E010.mp3?dest-id=1928300",
+   "time": "~8m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "Section 230's days are numbered - platforms will end up regulated like newspapers and TV",
+   "quote": "Section 230 is their days are numbered and Facebook, Twitter, Google, all these companies are going to have to look more like newspapers and television stations",
+   "topic": "Tech",
+   "boldness": 4,
+   "importance": 4,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 16,
+   "resolution": "Six years on, Section 230 is still the law: its 30th-anniversary Senate hearings in 2026 produced debate, not repeal, and no Supreme Court case has dismantled it.",
+   "sources": [
+    "https://rollcall.com/2026/03/18/online-liability-shield-still-a-lightning-rod-after-30-years/",
+    "https://iapp.org/news/a/section-230-at-30-us-senate-hearing-explores-potential-reforms"
+   ],
+   "ts": 480
+  },
+  {
+   "id": 124,
+   "episode": "E10",
+   "episode_date": "2020-10-16",
+   "episode_title": "E10: Twitter & Facebook botch censorship (again), the publisher vs. distributor debate & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E010.mp3?dest-id=1928300",
+   "time": "~35m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "COVID is winding down - we now have very effective treatments",
+   "quote": "we have very effective treatments for COVID... we are really winding down on the whole the whole COVID thing",
+   "topic": "COVID",
+   "boldness": 3,
+   "importance": 4,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 12,
+   "resolution": "The deadliest US wave was still ahead: winter 2020-21 peaked in January 2021, the deadliest month of the pandemic, with Delta and Omicron still to come.",
+   "sources": [
+    "https://apnews.com/article/coronavirus-us-deadliest-month-8cd0576f98d12158985d072496b8808e",
+    "https://www.cnbc.com/2021/01/27/us-reports-record-number-of-covid-deaths-in-january.html"
+   ],
+   "ts": 2100
+  },
+  {
+   "id": 125,
+   "episode": "E10",
+   "episode_date": "2020-10-16",
+   "episode_title": "E10: Twitter & Facebook botch censorship (again), the publisher vs. distributor debate & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E010.mp3?dest-id=1928300",
+   "time": "~37m",
+   "speaker": "Friedberg",
+   "attribution": "medium",
+   "claim": "True COVID infection fatality rate is around 0.1% or less, far below published figures",
+   "quote": "you can take that number that's published and divided by about 3... to get to get the true IFR",
+   "topic": "COVID",
+   "boldness": 3,
+   "importance": 3,
+   "status": "partial",
+   "accuracy": 0.5,
+   "weight": 9,
+   "resolution": "Right direction, too low: meta-analyses (Ioannidis in the WHO Bulletin) settled near 0.2-0.27% overall pre-vaccine - far below official case fatality rates, but above his ~0.07-0.1% band.",
+   "sources": [
+    "https://doi.org/10.2471/blt.20.265892",
+    "https://pubmed.ncbi.nlm.nih.gov/33716331/"
+   ],
+   "ts": 2220
+  },
+  {
+   "id": 126,
+   "episode": "E10",
+   "episode_date": "2020-10-16",
+   "episode_title": "E10: Twitter & Facebook botch censorship (again), the publisher vs. distributor debate & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E010.mp3?dest-id=1928300",
+   "time": "~42m",
+   "speaker": "Jason",
+   "attribution": "high",
+   "claim": "NBC will come out swinging at Trump's town hall tonight",
+   "quote": "NBC is going to come out swinging tonight in this town hall to try to take down Trump",
+   "topic": "Politics",
+   "boldness": 2,
+   "importance": 2,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 4,
+   "resolution": "Savannah Guthrie pressed Trump hard throughout, including the famous 'you're the President, you're not someone's crazy uncle' line over his QAnon retweet.",
+   "sources": [
+    "https://www.usatoday.com/story/news/politics/elections/2020/10/15/town-halls-guthrie-says-trump-isnt-someones-crazy-uncle-over-qanon-tweets/3673399001/",
+    "https://www.cbsnews.com/news/savannah-guthrie-trump-town-hall/"
+   ],
+   "ts": 2520
+  },
+  {
+   "id": 127,
+   "episode": "E10",
+   "episode_date": "2020-10-16",
+   "episode_title": "E10: Twitter & Facebook botch censorship (again), the publisher vs. distributor debate & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E010.mp3?dest-id=1928300",
+   "time": "~46m",
+   "speaker": "Jason",
+   "attribution": "high",
+   "claim": "Trump loses - and it's a landslide",
+   "quote": "I think that Trump's going to lose, and and it's going to be a landslide",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 4,
+   "status": "partial",
+   "accuracy": 0.5,
+   "weight": 12,
+   "resolution": "Right winner, overstated margin: Biden's 306 EV matched Trump's own 2016 map and the 4.5-point popular margin led FactCheck.org to headline 'No landslide for Biden, either.'",
+   "sources": [
+    "https://www.factcheck.org/2020/11/no-landslide-for-biden-either/"
+   ],
+   "ts": 2760
+  },
+  {
+   "id": 128,
+   "episode": "E10",
+   "episode_date": "2020-10-16",
+   "episode_title": "E10: Twitter & Facebook botch censorship (again), the publisher vs. distributor debate & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E010.mp3?dest-id=1928300",
+   "time": "~49m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Trump will never resign for a Pence pardon - ego too big (zero chance)",
+   "quote": "Ego too big. He won't he won't resign.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 2,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 6,
+   "resolution": "Trump served out his full term, never resigned, and his final 143 clemency actions covered allies - not himself via resignation or Pence.",
+   "sources": [
+    "https://www.aljazeera.com/news/2021/1/20/trump-pardons-73-commutes-sentence-for-70-others-full-list"
+   ],
+   "ts": 2940
+  },
+  {
+   "id": 129,
+   "episode": "E10",
+   "episode_date": "2020-10-16",
+   "episode_title": "E10: Twitter & Facebook botch censorship (again), the publisher vs. distributor debate & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E010.mp3?dest-id=1928300",
+   "time": "~49m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "50/50 Trump goes for the full family pardon",
+   "quote": "I think it's like a I think it's 50/50. He just goes for the full family pardon.",
+   "topic": "Politics",
+   "boldness": 4,
+   "importance": 2,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 8,
+   "resolution": "No self-pardon and no pardons for his children or spouse appeared in the final clemency list of Jan 20, 2021.",
+   "sources": [
+    "https://www.snopes.com/news/2021/01/19/trump-pardons-rumors/",
+    "https://www.aljazeera.com/news/2021/1/20/trump-pardons-73-commutes-sentence-for-70-others-full-list"
+   ],
+   "ts": 2940
   }
  ],
  "leaderboard": [
   {
    "name": "Sacks",
-   "score": 62.6,
-   "n": 27,
-   "correct": 15,
+   "score": 60.1,
+   "n": 34,
+   "correct": 19,
    "partial": 7,
-   "wrong": 5
+   "wrong": 8
   },
   {
    "name": "Friedberg",
-   "score": 54.5,
-   "n": 24,
-   "correct": 13,
-   "partial": 4,
+   "score": 56.4,
+   "n": 27,
+   "correct": 15,
+   "partial": 5,
    "wrong": 7
   },
   {
-   "name": "Chamath",
-   "score": 40.7,
-   "n": 46,
-   "correct": 18,
-   "partial": 13,
-   "wrong": 15
+   "name": "Jason",
+   "score": 39.5,
+   "n": 12,
+   "correct": 4,
+   "partial": 2,
+   "wrong": 6
   },
   {
-   "name": "Jason",
-   "score": 32.8,
-   "n": 9,
-   "correct": 2,
-   "partial": 1,
-   "wrong": 6
+   "name": "Chamath",
+   "score": 38.4,
+   "n": 50,
+   "correct": 18,
+   "partial": 14,
+   "wrong": 18
   }
  ],
  "profiles": {
@@ -2627,17 +3059,15 @@
   "note": "AI-generated analysis from the measured grades below; refreshed as new episodes are graded.",
   "by_speaker": {
    "Chamath": {
-    "graded": 46,
+    "graded": 50,
     "ungraded": 0,
     "avg_boldness": 3.2,
     "strengths": [
-     "Policy (80, 2 graded)",
-     "Tech (74, 6 graded)",
-     "Politics (59, 9 graded)"
+     "Policy (80, 2 graded)"
     ],
     "weaknesses": [
+     "COVID (31, 7 graded)",
      "Geopolitics (30, 3 graded)",
-     "COVID (30, 6 graded)",
      "Health (20, 2 graded)",
      "Markets (18, 7 graded)",
      "Macro (15, 3 graded)"
@@ -2646,14 +3076,16 @@
     "best_claim": "Trump loses the 2020 election - 75/25 odds",
     "worst_id": 8,
     "worst_claim": "More people will die from second- and third-order economic effects than from the virus itself",
-    "summary": "The volume shooter - more graded takes than anyone else on the panel and the boldest on average. When he stays in his lane (tech, startups, policy mechanics) he is genuinely strong; his disasters come from macro market timing, including the March 2020 bottom call that missed by about seven months and the S&P 2,000 that never happened. The trend is his friend: he improved every quarter of 2020."
+    "summary": "The volume shooter - more graded takes than anyone else on the panel and the boldest on average. When he stays in his lane (tech, startups, policy mechanics) he is genuinely strong; his disasters come from macro market timing (the March 2020 bottom call missed by about seven months) and, in the fall 2020 run, big political-structure swings: Section 230 repeal, Biden serving one term, and the family-pardon call all went wrong, dragging him to last place (38.4) and a 10-point Q4."
    },
    "Friedberg": {
-    "graded": 24,
-    "ungraded": 5,
+    "graded": 27,
+    "ungraded": 6,
     "avg_boldness": 2.9,
     "strengths": [
-     "Health (91, 6 graded)"
+     "Economy (100, 2 graded)",
+     "Health (91, 6 graded)",
+     "Tech (60, 2 graded)"
     ],
     "weaknesses": [
      "Politics (10, 3 graded)"
@@ -2662,32 +3094,14 @@
     "best_claim": "A staged COVID vaccine release will begin in Q4 2020, with doses available for healthcare and frontline workers by end of year",
     "worst_id": 62,
     "worst_claim": "Trump still wins the 2020 election - 70% chance",
-    "summary": "The scientist. The single best topic score on the board is his health calls - he nailed the vaccine timeline and the fatality-rate band while those were still genuinely uncertain. His kryptonite is electoral politics: the '70% Trump' call is the biggest-weight miss on his card. He fades when the show leaves his lane."
-   },
-   "Sacks": {
-    "graded": 27,
-    "ungraded": 0,
-    "avg_boldness": 2.9,
-    "strengths": [
-     "COVID (100, 5 graded)",
-     "Geopolitics (90, 4 graded)",
-     "Health (80, 2 graded)"
-    ],
-    "weaknesses": [
-     "Politics (29, 8 graded)"
-    ],
-    "best_id": 49,
-    "best_claim": "Imperial College's 2.2 million US death projection was insane fear-mongering, and that has been borne out",
-    "worst_id": 31,
-    "worst_claim": "PREDICTION: no new gun-control legislation for a generation",
-    "summary": "The most disciplined caller on the panel and the current #1. Perfect on COVID policy (lockdown skepticism, the Imperial College takedown) and strong on China decoupling. His misses cluster in electoral politics - the 'no gun-control legislation for a generation' pledge died in June 2022. No bad quarter all year."
+    "summary": "The scientist, now #2. The single best topic score on the board is his health calls - he nailed the vaccine timeline and the fatality-rate band while those were genuinely uncertain, though his 0.1% true-IFR band came in too low. He also called the Coinbase culture bet and 2021's boom correctly. His kryptonite is electoral politics: the '70% Trump' call is the biggest-weight miss on his card. Strongest quarter on the board in Q4 2020 (79)."
    },
    "Jason": {
-    "graded": 9,
+    "graded": 12,
     "ungraded": 0,
-    "avg_boldness": 2.9,
+    "avg_boldness": 2.7,
     "strengths": [
-     "Politics (62, 3 graded)"
+     "Politics (65, 6 graded)"
     ],
     "weaknesses": [
      "COVID (0, 3 graded)",
@@ -2697,7 +3111,25 @@
     "best_claim": "Biden wins the 2020 election, and wins big",
     "worst_id": 89,
     "worst_claim": "Vaccine progress plus the debates means Trump sails to re-election",
-    "summary": "Boom or bust on the smallest sample on the board. He made the single best election call of the year - 'Biden wins big' - while going 0-for on COVID and markets. Treat the score as provisional: his sample is about a third of anyone else's."
+    "summary": "Boom or bust on the smallest sample on the board. He called the 2020 election right twice over ('Biden wins big', then the landslide lean - graded partial on margin), plus the NBC town-hall ambush, while going 0-for on COVID and markets early on. Now ahead of Chamath at 39.5. Treat the score as provisional: his sample is still about a quarter of Chamath's."
+   },
+   "Sacks": {
+    "graded": 34,
+    "ungraded": 0,
+    "avg_boldness": 2.9,
+    "strengths": [
+     "Geopolitics (90, 4 graded)",
+     "Tech (83, 3 graded)",
+     "COVID (83, 7 graded)"
+    ],
+    "weaknesses": [
+     "Politics (32, 12 graded)"
+    ],
+    "best_id": 49,
+    "best_claim": "Imperial College's 2.2 million US death projection was insane fear-mongering, and that has been borne out",
+    "worst_id": 31,
+    "worst_claim": "PREDICTION: no new gun-control legislation for a generation",
+    "summary": "The most disciplined caller on the panel and still #1. Perfect on COVID policy (lockdown skepticism, the Imperial College takedown), and he nailed both the Trump COVID recovery timeline and the SF-to-America tech spread. His misses cluster in electoral politics and late-2020 COVID optimism - the 'no gun-control legislation for a generation' pledge died in June 2022, the laptop-skepticism and 'winding down on COVID' calls aged badly, and his Trump-underdog bet didn't cash. No bad quarters until Q4 2020's 50."
    }
   }
  },
@@ -2705,7 +3137,8 @@
   "periods": [
    "2020-Q1",
    "2020-Q2",
-   "2020-Q3"
+   "2020-Q3",
+   "2020-Q4"
   ],
   "by_speaker": {
    "Chamath": {
@@ -2720,6 +3153,10 @@
     "2020-Q3": {
      "score": 59,
      "graded": 22
+    },
+    "2020-Q4": {
+     "score": 10,
+     "graded": 4
     }
    },
    "Friedberg": {
@@ -2734,16 +3171,10 @@
     "2020-Q3": {
      "score": 38,
      "graded": 9
-    }
-   },
-   "Sacks": {
-    "2020-Q2": {
-     "score": 64,
-     "graded": 11
     },
-    "2020-Q3": {
-     "score": 61,
-     "graded": 16
+    "2020-Q4": {
+     "score": 79,
+     "graded": 3
     }
    },
    "Jason": {
@@ -2758,11 +3189,29 @@
     "2020-Q3": {
      "score": 25,
      "graded": 4
+    },
+    "2020-Q4": {
+     "score": 70,
+     "graded": 3
+    }
+   },
+   "Sacks": {
+    "2020-Q2": {
+     "score": 64,
+     "graded": 11
+    },
+    "2020-Q3": {
+     "score": 61,
+     "graded": 16
+    },
+    "2020-Q4": {
+     "score": 50,
+     "graded": 7
     }
    }
   },
-  "updated": "2026-09-09",
+  "updated": "2020-Q4",
   "note": "AI-generated commentary on measured quarterly scores; switches to annual as multi-year coverage lands.",
-  "commentary": "The arc of 2020 so far: Chamath started the pandemic catastrophically wrong (14 in Q1 - the market-bottom and death-toll calls) and improved every quarter (59 by Q3). Friedberg moved the other way - brilliant on early COVID science, fading as the show turned to politics (60 to 38). Sacks held steady at the top all year. Jason swings hard on a thin sample. Annual drift becomes visible once 2021+ episodes land."
+  "commentary": "The arc of 2020: Chamath started the pandemic catastrophically wrong (14 in Q1 - the market-bottom and death-toll calls), improved through Q3 (59), then face-planted in Q4 (10) on the big political-structure bets - Section 230, one-term Biden, the family pardon. Friedberg moved the other way: brilliant on early COVID science, dipped as the show turned to politics, then posted the best quarter on the board in Q4 (79) on the Coinbase and 2021-boom calls. Sacks held the top all year but slipped to 50 in Q4 on the laptop and winding-down-COVID calls. Jason swings hard on a thin sample and finished 2020 strong (70). Annual drift becomes visible once 2021+ episodes land."
  }
 }
