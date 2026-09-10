@@ -65,6 +65,16 @@
    "title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
    "date": "2020-11-11",
    "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300"
+  },
+  "E13": {
+   "title": "E13: SPACsgiving Special! More promising vaccine news, innovation vs. regulation, reforming higher ed, morality of challenge trials & more",
+   "date": "2020-11-25",
+   "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E013.mp3?dest-id=1928300"
+  },
+  "E14": {
+   "title": "E14: Salesforce acquires Slack, DeepMind's AlphaFold breakthrough, Trust Fund Socialists & more",
+   "date": "2020-12-04",
+   "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E014.mp3?dest-id=1928300"
   }
  },
  "predictions": [
@@ -3674,52 +3684,331 @@
    "sources": [],
    "ts": 3780,
    "id": 157
+  },
+  {
+   "episode": "E13",
+   "episode_date": "2020-11-25",
+   "episode_title": "E13: SPACsgiving Special! More promising vaccine news, innovation vs. regulation, reforming higher ed, morality of challenge trials & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E013.mp3?dest-id=1928300",
+   "time": "~62m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "2021 will be a much better year - the economy bounces back strongly on the vaccines",
+   "quote": "I do think it's going to get rapidly better as soon as these vaccines come to market. So, I do think we'll we're I do think 2021 will be a much, much better year.",
+   "topic": "Economy",
+   "boldness": 2,
+   "importance": 3,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 6,
+   "resolution": "US real GDP grew 5.7% in 2021, the fastest since 1984, and the S&P 500 returned 26.6%.",
+   "sources": [
+    "https://www.bea.gov/news/2022/gross-domestic-product-fourth-quarter-and-year-2021-second-estimate",
+    "https://www.reuters.com/world/us/us-economy-regained-speed-q4-2021-growth-best-since-1984-2022-01-27/"
+   ],
+   "ts": 3720,
+   "id": 158
+  },
+  {
+   "episode": "E13",
+   "episode_date": "2020-11-25",
+   "episode_title": "E13: SPACsgiving Special! More promising vaccine news, innovation vs. regulation, reforming higher ed, morality of challenge trials & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E013.mp3?dest-id=1928300",
+   "time": "~72m",
+   "speaker": "Friedberg",
+   "attribution": "high",
+   "claim": "Cheap wind and solar will make pulling oil out of the ground economically infeasible within 3-4 years",
+   "quote": "otherwise the cost of wind and the cost of solar is going to make pulling the oil out of the ground economically infeasible within 3 or 4 years.",
+   "topic": "Economy",
+   "boldness": 3,
+   "importance": 3,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 9,
+   "resolution": "The opposite happened: US crude production hit an all-time record in 2023 (12.9M bbl/day, more than any country ever) and kept rising into 2024-2025; oil majors posted record profits in 2022.",
+   "sources": [
+    "https://www.eia.gov/todayinenergy/detail.php?id=61523"
+   ],
+   "ts": 4320,
+   "id": 159
+  },
+  {
+   "episode": "E13",
+   "episode_date": "2020-11-25",
+   "episode_title": "E13: SPACsgiving Special! More promising vaccine news, innovation vs. regulation, reforming higher ed, morality of challenge trials & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E013.mp3?dest-id=1928300",
+   "time": "~70m",
+   "speaker": "Jason",
+   "attribution": "high",
+   "claim": "The Rock will run for president and win (15-year projection)",
+   "quote": "I'd like to go on the record with my 15-year projection then or uh uh which is that uh The Rock is going to run for president and win.",
+   "topic": "Politics",
+   "boldness": 4,
+   "importance": 2,
+   "status": "pending",
+   "accuracy": null,
+   "weight": 8,
+   "resolution": "Unresolved - the horizon runs to about 2035. As of 2026, Dwayne Johnson has not run for president.",
+   "sources": [],
+   "ts": 4200,
+   "id": 160
+  },
+  {
+   "episode": "E14",
+   "episode_date": "2020-12-04",
+   "episode_title": "E14: Salesforce acquires Slack, DeepMind's AlphaFold breakthrough, Trust Fund Socialists & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E014.mp3?dest-id=1928300",
+   "time": "~38m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Trump's election fight will cost Republicans the Senate - and it's something he won't come back from",
+   "quote": "it looks like it's going to cost Republicans the Senate, which is something that I think he won't come back from.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 4,
+   "status": "partial",
+   "accuracy": 0.5,
+   "weight": 12,
+   "resolution": "Half right. Democrats won both Georgia runoffs on Jan 5, 2021 and took the Senate. But Trump came back from it easily - the 2024 nomination and the presidency.",
+   "sources": [
+    "https://www.opensecrets.org/news/2021/01/georgia-senate-races-shatter-records/",
+    "https://apnews.com/article/election-day-trump-harris-white-house-83c8e246ab97f5b97be45cdc156af4e2"
+   ],
+   "ts": 2280,
+   "id": 161
+  },
+  {
+   "episode": "E14",
+   "episode_date": "2020-12-04",
+   "episode_title": "E14: Salesforce acquires Slack, DeepMind's AlphaFold breakthrough, Trust Fund Socialists & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E014.mp3?dest-id=1928300",
+   "time": "~50m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "If the Georgia runoffs are about the Rudy/Sidney Powell antics, Republicans lose both seats",
+   "quote": "if the issue in the Georgia runoffs is are these antics, if it's Rudy and Sidney Powell, the Republicans are going to lose the seat, both seats.",
+   "topic": "Politics",
+   "boldness": 2,
+   "importance": 3,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 6,
+   "resolution": "The runoffs were dominated by Trump's fraud claims; Republicans lost both seats on Jan 5, 2021, handing Democrats the Senate.",
+   "sources": [
+    "https://www.opensecrets.org/news/2021/01/georgia-senate-races-shatter-records/"
+   ],
+   "ts": 3000,
+   "id": 162
+  },
+  {
+   "episode": "E14",
+   "episode_date": "2020-12-04",
+   "episode_title": "E14: Salesforce acquires Slack, DeepMind's AlphaFold breakthrough, Trust Fund Socialists & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E014.mp3?dest-id=1928300",
+   "time": "~55m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Trump has nothing to worry about federally; the problem is New York (SDNY)",
+   "quote": "I don't think I don't think Trump has anything to worry about federally. I think the problem is, um, is New York.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 3,
+   "status": "partial",
+   "accuracy": 0.5,
+   "weight": 9,
+   "resolution": "Half right. New York did convict him (34 felony counts, May 2024). But federal exposure was real too: special counsel Jack Smith indicted Trump twice in 2023 (documents and Jan 6 cases); both were dropped only after he won the 2024 election.",
+   "sources": [
+    "https://apnews.com/article/trump-capitol-riot-justice-department-jack-smith-d6172cf98d8e03e099571c908267456c",
+    "https://apnews.com/article/trump-trial-deliberations-jury-testimony-verdict-85558c6d08efb434d05b694364470aa0"
+   ],
+   "ts": 3300,
+   "id": 163
+  },
+  {
+   "episode": "E14",
+   "episode_date": "2020-12-04",
+   "episode_title": "E14: Salesforce acquires Slack, DeepMind's AlphaFold breakthrough, Trust Fund Socialists & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E014.mp3?dest-id=1928300",
+   "time": "~57m",
+   "speaker": "Jason",
+   "attribution": "high",
+   "claim": "The alt-right mania fades into oblivion, the GOP reinvents itself, and this strategy never wins the presidency again",
+   "quote": "My theory is this entire twisted like crazy right alt-right mania just fades into oblivion, and the Republican Party reinvents itself... They win local elections, but they're never going to win the presidency again with this strategy.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 3,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 9,
+   "resolution": "The party doubled down rather than reinventing, and Trump won the 2024 presidential election.",
+   "sources": [
+    "https://apnews.com/article/election-day-trump-harris-white-house-83c8e246ab97f5b97be45cdc156af4e2"
+   ],
+   "ts": 3420,
+   "id": 164
+  },
+  {
+   "episode": "E14",
+   "episode_date": "2020-12-04",
+   "episode_title": "E14: Salesforce acquires Slack, DeepMind's AlphaFold breakthrough, Trust Fund Socialists & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E014.mp3?dest-id=1928300",
+   "time": "~57m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "Republicans will win back the House and retire Nancy Pelosi in two years - I'll put money on it right now",
+   "quote": "They almost certainly will win back the House and retire Nancy Pelosi in two years during the midterm election. I'll put money on that right now.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 3,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 9,
+   "resolution": "Republicans won the House in November 2022, and Pelosi announced she was stepping down from Democratic leadership days later.",
+   "sources": [
+    "https://www.reuters.com/world/us/us-house-speaker-pelosi-address-her-future-thursday-2022-11-17/"
+   ],
+   "ts": 3420,
+   "id": 165
+  },
+  {
+   "episode": "E14",
+   "episode_date": "2020-12-04",
+   "episode_title": "E14: Salesforce acquires Slack, DeepMind's AlphaFold breakthrough, Trust Fund Socialists & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E014.mp3?dest-id=1928300",
+   "time": "~34m",
+   "speaker": "Friedberg",
+   "attribution": "high",
+   "claim": "AlphaFold will be replicated by others within 12-24 months - it's an inevitability",
+   "quote": "I think it's it's an inevitability that in the next 12 to 24 months someone else will will replicate this.",
+   "topic": "Science",
+   "boldness": 3,
+   "importance": 3,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 9,
+   "resolution": "RoseTTAFold (open-source, University of Washington) arrived in mid-2021 and Meta's ESMFold in 2022, both replicating AlphaFold-class protein structure prediction - inside the 24-month window.",
+   "sources": [
+    "https://github.com/RosettaCommons/RoseTTAFold/",
+    "https://www.isomorphiclabs.com/articles/introducing-isomorphic-labs"
+   ],
+   "ts": 2040,
+   "id": 166
+  },
+  {
+   "episode": "E14",
+   "episode_date": "2020-12-04",
+   "episode_title": "E14: Salesforce acquires Slack, DeepMind's AlphaFold breakthrough, Trust Fund Socialists & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E014.mp3?dest-id=1928300",
+   "time": "~37m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "Within a year, startups replicate AlphaFold - you'll see 50 startups funded on novel protein ideas in 12-18 months",
+   "quote": "I think we're within within 1 year, JCal, of a lot of startups replicating this AlphaFold technique and then using that to go do drug discovery, and you'll see 50 startups getting funded 12 to 18 months from now based on some novel protein idea.",
+   "topic": "Tech",
+   "boldness": 3,
+   "importance": 2,
+   "status": "partial",
+   "accuracy": 0.5,
+   "weight": 6,
+   "resolution": "The AI-biology startup boom happened on schedule (Alphabet's Isomorphic Labs launched Nov 2021; a wave of AI drug-discovery funding followed through 2022), though '50 startups' is unverifiable as an exact count.",
+   "sources": [
+    "https://www.isomorphiclabs.com/articles/introducing-isomorphic-labs",
+    "https://techcrunch.com/2021/11/04/isomorphic-labs-is-alphabets-play-in-ai-drug-discovery/"
+   ],
+   "ts": 2220,
+   "id": 167
+  },
+  {
+   "episode": "E14",
+   "episode_date": "2020-12-04",
+   "episode_title": "E14: Salesforce acquires Slack, DeepMind's AlphaFold breakthrough, Trust Fund Socialists & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E014.mp3?dest-id=1928300",
+   "time": "~38m",
+   "speaker": "Friedberg",
+   "attribution": "high",
+   "claim": "Biodefense will become one of the biggest industries on Earth, starting in the latter half of this century",
+   "quote": "I think biodefense is going to become probably one of the biggest industries on planet Earth, starting in the latter half of this century",
+   "topic": "Health",
+   "boldness": 4,
+   "importance": 2,
+   "status": "pending",
+   "accuracy": null,
+   "weight": 8,
+   "resolution": "Unresolved - the horizon starts around 2050. Biodefense spending has grown since 2020 but is nowhere near 'biggest industries on Earth' as of 2026.",
+   "sources": [],
+   "ts": 2280,
+   "id": 168
+  },
+  {
+   "episode": "E14",
+   "episode_date": "2020-12-04",
+   "episode_title": "E14: Salesforce acquires Slack, DeepMind's AlphaFold breakthrough, Trust Fund Socialists & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E014.mp3?dest-id=1928300",
+   "time": "~46m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "Newsmax and OANN become viable real media businesses and steal Fox's audience - 100%, it's already happened",
+   "quote": "100%. It's already happened. It's just the increasing fragmentation of media, right?",
+   "topic": "Media",
+   "boldness": 3,
+   "importance": 2,
+   "status": "partial",
+   "accuracy": 0.5,
+   "weight": 6,
+   "resolution": "Newsmax's post-election surge was real but faded by early 2021 (Nielsen: ~275k average in Nov 2020, ~207k by March 2021), and Pew found Fox's reach still dwarfed both upstarts. OANN was dropped by DirecTV in 2022 and nearly collapsed. Viable niche business, no durable Fox audience theft.",
+   "sources": [
+    "https://www.pewresearch.org/wp-content/uploads/sites/20/2021/03/PJ_2021.03.23_Fox-Newsmax-OAN_FINAL.pdf",
+    "https://spectrumlocalnews.com/ap-top-news/2021/03/30/newsmax-keeps-most-not-all-of-post-election-samplers"
+   ],
+   "ts": 2760,
+   "id": 169
   }
  ],
  "leaderboard": [
   {
    "name": "Sacks",
-   "score": 55.6,
-   "n": 45,
-   "correct": 22,
-   "partial": 10,
+   "score": 56.4,
+   "n": 49,
+   "correct": 24,
+   "partial": 12,
    "wrong": 13
   },
   {
    "name": "Friedberg",
    "score": 49.4,
-   "n": 34,
-   "correct": 17,
+   "n": 36,
+   "correct": 18,
    "partial": 5,
-   "wrong": 12
+   "wrong": 13
   },
   {
    "name": "Jason",
-   "score": 44.2,
-   "n": 15,
+   "score": 41.4,
+   "n": 16,
    "correct": 6,
    "partial": 2,
-   "wrong": 7
+   "wrong": 8
   },
   {
    "name": "Chamath",
-   "score": 37.0,
-   "n": 56,
-   "correct": 19,
-   "partial": 15,
+   "score": 38.0,
+   "n": 59,
+   "correct": 20,
+   "partial": 17,
    "wrong": 22
   }
  ],
  "profiles": {
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "note": "AI-generated analysis from the measured grades below; refreshed as new episodes are graded.",
   "by_speaker": {
    "Chamath": {
-    "graded": 56,
+    "graded": 59,
     "ungraded": 1,
     "avg_boldness": 3.3,
     "strengths": [
-     "Policy (80, 2 graded)"
+     "Policy (80, 2 graded)",
+     "Media (70, 2 graded)"
     ],
     "weaknesses": [
      "COVID (33, 8 graded)",
@@ -3732,15 +4021,15 @@
     "best_claim": "Sticking with Biden: the uncounted Philadelphia mail-in vote (350-500k) carries Pennsylvania",
     "worst_id": 8,
     "worst_claim": "More people will die from second- and third-order economic effects than from the virus itself",
-    "summary": "The volume shooter - most graded takes and boldest on average, still #4 at 37.0. The election specials show both sides of him: his Philly mail-in read on election night was the single best call of the two episodes (mechanism and winner both right), but he flipped to Trump on betting odds before the same show ended. Then E12: 'zero chance Trump runs in 4 years', 'Breitbart Light, shut down within 24 months', and a 30-40% market crash if Democrats took Georgia - all wrong. The SF bankruptcy call (10-15 yr horizon) is pending. Strong in his lane, expensive outside it."
+    "summary": "The volume shooter - most graded takes and boldest on average, still #4 at 38.0. E14 gave him his best receipt in weeks: 'Republicans win back the House and retire Pelosi in two years - I'll put money on that right now' landed exactly. His AlphaFold-startup boom call aged well in direction (Isomorphic Labs and the AI drug-discovery wave) if not in the '50 startups' count, and the Newsmax/OAN '100%, it's already happened' call grades partial - the surge was real, the Fox audience theft wasn't. The election specials still weigh on him: zero-chance-Trump-2024, Breitbart Light, the Georgia market-crash call. Strong in his lane, expensive outside it."
    },
    "Friedberg": {
-    "graded": 34,
-    "ungraded": 6,
+    "graded": 36,
+    "ungraded": 7,
     "avg_boldness": 3.0,
     "strengths": [
-     "Economy (100, 2 graded)",
      "Health (91, 6 graded)",
+     "Economy (67, 3 graded)",
      "Tech (60, 2 graded)"
     ],
     "weaknesses": [
@@ -3750,14 +4039,14 @@
     "best_claim": "A staged COVID vaccine release will begin in Q4 2020, with doses available for healthcare and frontline workers by end of year",
     "worst_id": 62,
     "worst_claim": "Trump still wins the 2020 election - 70% chance",
-    "summary": "The scientist, #2. The best early topic score on the board is still his health calls - vaccine timeline and fatality band while genuinely uncertain. E12 was a mixed bag: correctly called the media as the 2020 election's biggest loser and the record-breaking Georgia runoff money, but the 'COVID rules are permanent / TSA-fication' call missed hard, 'Donald Trump Jr. runs in 2024' missed, and 'Trump out by December 15th' missed. On election night he read the markets as a Trump win."
+    "summary": "The scientist, #2 at 49.4. E14 played to his lane: 'someone replicates AlphaFold within 12-24 months, it's an inevitability' was dead on - RoseTTAFold shipped inside a year, ESMFold inside two. But the same fall produced one of his worst misses: cheap wind and solar making oil extraction 'economically infeasible within 3 or 4 years' - US crude hit an all-time production record instead. His biodefense-as-biggest-industry call (2050+ horizon) is pending. The best early topic score on the board is still his health calls. Politics remains his weak spot at 11."
    },
    "Jason": {
-    "graded": 15,
-    "ungraded": 0,
-    "avg_boldness": 2.6,
+    "graded": 16,
+    "ungraded": 1,
+    "avg_boldness": 2.7,
     "strengths": [
-     "Politics (72, 8 graded)"
+     "Politics (64, 9 graded)"
     ],
     "weaknesses": [
      "COVID (0, 3 graded)",
@@ -3767,25 +4056,25 @@
     "best_claim": "Biden wins the 2020 election, and wins big",
     "worst_id": 89,
     "worst_claim": "Vaccine progress plus the debates means Trump sails to re-election",
-    "summary": "Boom or bust on the smallest sample on the board, now 44.2 and #3. Election night 2020 was his best showing: picked Biden with the popular-vote margin (~4-5 pts, actual 4.5) and called Prop 22's passage, adding to his earlier Biden calls. The misses are memorable rather than costly - 'greatest Burning Man ever' was cancelled outright. Early COVID and markets calls remain his soft spot. Treat the score as provisional given the sample size."
+    "summary": "Boom or bust on the smallest sample on the board, now 41.4 and #3. E14 hurt: 'the alt-right mania fades into oblivion, the GOP reinvents itself, this strategy never wins the presidency again' read as a clean structural call, and Trump won 2024 with exactly that strategy. His 15-year Rock-for-president projection (E13) is pending until ~2035. Election night 2020 remains his best showing: Biden with the popular-vote margin, Prop 22. Early COVID and markets calls remain his soft spot. Treat the score as provisional given the sample size."
    },
    "Sacks": {
-    "graded": 45,
+    "graded": 49,
     "ungraded": 0,
-    "avg_boldness": 2.9,
+    "avg_boldness": 2.8,
     "strengths": [
      "Geopolitics (90, 4 graded)",
      "Tech (83, 3 graded)",
      "Health (80, 2 graded)"
     ],
     "weaknesses": [
-     "Politics (33, 21 graded)"
+     "Politics (36, 24 graded)"
     ],
     "best_id": 49,
     "best_claim": "Imperial College's 2.2 million US death projection was insane fear-mongering, and that has been borne out",
     "worst_id": 31,
     "worst_claim": "PREDICTION: no new gun-control legislation for a generation",
-    "summary": "The most disciplined caller on the panel and still #1, though the election specials dented him: he went with the betting markets for Trump on election night, called Michigan for Trump, and predicted both a December/Supreme Court fight and a Thanksgiving concession that never came. His 'scenario three' (Biden + GOP Senate) was half right, and he nailed the two best structural Trump calls of E12 - 'probably gets the nomination if he runs in 4 years' and the kingmaker/media-venture prediction (partial: Truth Social became a Twitter clone, not a Fox competitor). Still perfect on early COVID policy, with the 'distant memory by summer' optimism landing partial. Misses cluster in electoral politics."
+    "summary": "The most disciplined caller on the panel and still #1 at 56.4. E13/E14 reinforced the pattern: he called the 2021 vaccine-driven economic bounce ('a much, much better year' - fastest GDP growth since 1984) and called both Georgia runoffs for the Democrats on the Rudy/Sidney Powell antics. The same episodes show his ceiling on Trump reads: 'costing Republicans the Senate is something Trump won't come back from' and 'nothing to worry about federally, the problem is New York' both graded partial - right on the Senate and the NY conviction, wrong on the comeback and the two federal indictments. Misses cluster in electoral politics; his structural and policy calls keep him on top."
    }
   }
  },
@@ -3811,8 +4100,8 @@
      "graded": 22
     },
     "2020-Q4": {
-     "score": 22,
-     "graded": 10
+     "score": 29,
+     "graded": 13
     }
    },
    "Friedberg": {
@@ -3829,8 +4118,8 @@
      "graded": 9
     },
     "2020-Q4": {
-     "score": 35,
-     "graded": 10
+     "score": 38,
+     "graded": 12
     }
    },
    "Jason": {
@@ -3847,8 +4136,8 @@
      "graded": 4
     },
     "2020-Q4": {
-     "score": 70,
-     "graded": 6
+     "score": 57,
+     "graded": 7
     }
    },
    "Sacks": {
@@ -3861,13 +4150,13 @@
      "graded": 16
     },
     "2020-Q4": {
-     "score": 44,
-     "graded": 18
+     "score": 48,
+     "graded": 22
     }
    }
   },
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "note": "AI-generated commentary on measured quarterly scores; switches to annual as multi-year coverage lands.",
-  "commentary": "The arc of 2020: Chamath started the pandemic catastrophically wrong (14 in Q1 - the market-bottom and death-toll calls), improved through Q3 (59), then sank again in Q4 (22) on the big political-structure bets: zero-chance-Trump-2024, the Georgia market-crash call, Breitbart Light. Jason quietly posted the best Q4 on the board (70) on his election-night Biden read. Sacks held the top all year but slipped to 44 in Q4 - the election-night Trump lean, Michigan, and the Thanksgiving-concession calls all missed, partially offset by the 2024-nomination and kingmaker calls. Friedberg's Q4 (35) mixed strong media/Georgia-money reads with the permanent-COVID-rules miss. Coverage now runs E0-E12; annual trend view activates as multi-year coverage lands."
+  "commentary": "The arc of 2020: Chamath started the pandemic catastrophically wrong (14 in Q1 - the market-bottom and death-toll calls), improved through Q3 (59), then sank again in Q4 (29) despite the money-where-his-mouth-is Pelosi/House hit - the big structural bets (zero-chance-Trump-2024, the Georgia market crash, Breitbart Light) cost more. Jason posted the best Q4 on the board (57) on his election-night Biden read, though E14's 'GOP never wins the presidency this way' will drag his 2020 average as more episodes land. Sacks held the top all year but slipped to 48 in Q4 - the election-night Trump lean, Michigan, and the Thanksgiving-concession calls missed, partially offset by the vaccine-bounce, Georgia-runoffs, and 2024-nomination calls. Friedberg's Q4 (38) mixed the AlphaFold-replication bullseye and strong media/Georgia-money reads with the permanent-COVID-rules and oil-infeasibility misses. Coverage now runs E0-E14; annual trend view activates as multi-year coverage lands."
  }
 }
