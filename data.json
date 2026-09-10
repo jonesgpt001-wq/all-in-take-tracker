@@ -55,6 +55,16 @@
    "title": "E10: Twitter & Facebook botch censorship (again), the publisher vs. distributor debate & more",
    "date": "2020-10-16",
    "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E010.mp3?dest-id=1928300"
+  },
+  "E11": {
+   "title": "E11: Election Night Special featuring Phil Hellmuth, Bill Gurley, Brad Gerstner & more!",
+   "date": "2020-11-04",
+   "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E011.mp3?dest-id=1928300"
+  },
+  "E12": {
+   "title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "date": "2020-11-11",
+   "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300"
   }
  },
  "predictions": [
@@ -3018,40 +3028,686 @@
     "https://www.aljazeera.com/news/2021/1/20/trump-pardons-73-commutes-sentence-for-70-others-full-list"
    ],
    "ts": 2940
+  },
+  {
+   "episode": "E11",
+   "episode_date": "2020-11-04",
+   "episode_title": "E11: Election Night Special featuring Phil Hellmuth, Bill Gurley, Brad Gerstner & more!",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E011.mp3?dest-id=1928300",
+   "time": "~56m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Election-night call: Trump wins (going with the betting markets)",
+   "quote": "I'm going to go with what the betting markets are saying, which is Trump.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 5,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 15,
+   "resolution": "AP called the race for Joe Biden on Nov 7, 2020, after declaring him the winner in Pennsylvania.",
+   "sources": [
+    "https://apnews.com/article/why-did-AP-call-election-for-Biden-fe79276cd9175fffc7cf4fb58045fcf9"
+   ],
+   "ts": 3360,
+   "id": 130
+  },
+  {
+   "episode": "E11",
+   "episode_date": "2020-11-04",
+   "episode_title": "E11: Election Night Special featuring Phil Hellmuth, Bill Gurley, Brad Gerstner & more!",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E011.mp3?dest-id=1928300",
+   "time": "~56m",
+   "speaker": "Friedberg",
+   "attribution": "high",
+   "claim": "Election-night call: betting markets, Treasuries and S&P futures all say Trump wins",
+   "quote": "betting markets, treasury markets, S&P futures are telling me that Donald Trump is going to win.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 5,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 15,
+   "resolution": "AP called the race for Joe Biden on Nov 7, 2020. The late-night market moves were reads of a live count, not the outcome.",
+   "sources": [
+    "https://apnews.com/article/why-did-AP-call-election-for-Biden-fe79276cd9175fffc7cf4fb58045fcf9"
+   ],
+   "ts": 3360,
+   "id": 131
+  },
+  {
+   "episode": "E11",
+   "episode_date": "2020-11-04",
+   "episode_title": "E11: Election Night Special featuring Phil Hellmuth, Bill Gurley, Brad Gerstner & more!",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E011.mp3?dest-id=1928300",
+   "time": "~57m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "Sticking with Biden: the uncounted Philadelphia mail-in vote (350-500k) carries Pennsylvania",
+   "quote": "I'm going to stick with Biden here, because I think that that Philadelphia vote count is crucial... the exact math is about 350,000 votes that show up in Philadelphia, a gap of 350,000 votes that show up in Philly, Biden will do what he needs to do.",
+   "topic": "Politics",
+   "boldness": 4,
+   "importance": 5,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 20,
+   "resolution": "Called it on the mechanism, not just the winner: late-counted Philadelphia mail-in ballots erased Trump's ~600k election-night lead and Biden took Pennsylvania by ~80k. AP called PA, and the presidency, on Nov 7.",
+   "sources": [
+    "https://apnews.com/article/why-did-AP-call-election-for-Biden-fe79276cd9175fffc7cf4fb58045fcf9"
+   ],
+   "ts": 3420,
+   "id": 132
+  },
+  {
+   "episode": "E11",
+   "episode_date": "2020-11-04",
+   "episode_title": "E11: Election Night Special featuring Phil Hellmuth, Bill Gurley, Brad Gerstner & more!",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E011.mp3?dest-id=1928300",
+   "time": "~58m",
+   "speaker": "Jason",
+   "attribution": "high",
+   "claim": "Going with Biden, who wins the popular vote by four or five points",
+   "quote": "Biden is going to win the popular vote, and it might be by four points, five points... I'm going to go with Biden.",
+   "topic": "Politics",
+   "boldness": 2,
+   "importance": 5,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 10,
+   "resolution": "Biden won the popular vote by 4.5 points (~7 million votes) and the Electoral College 306-232.",
+   "sources": [
+    "https://apnews.com/article/why-did-AP-call-election-for-Biden-fe79276cd9175fffc7cf4fb58045fcf9"
+   ],
+   "ts": 3480,
+   "id": 133
+  },
+  {
+   "episode": "E11",
+   "episode_date": "2020-11-04",
+   "episode_title": "E11: Election Night Special featuring Phil Hellmuth, Bill Gurley, Brad Gerstner & more!",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E011.mp3?dest-id=1928300",
+   "time": "~1:35",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Michigan is going to Trump; the election comes down to Pennsylvania and the Philly suburbs",
+   "quote": "Michigan's going to go to Trump. It's going to come down to Pennsylvania, um, and really to the to the Philly suburbs.",
+   "topic": "Politics",
+   "boldness": 2,
+   "importance": 3,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 6,
+   "resolution": "AP called Michigan for Biden on Nov 4 (Biden +2.8 pts). Pennsylvania did prove decisive - for Biden.",
+   "sources": [
+    "https://apnews.com/article/ap-explains-race-calls-0b1988605f9101f4b799fc63b01e0090"
+   ],
+   "ts": 5700,
+   "id": 134
+  },
+  {
+   "episode": "E11",
+   "episode_date": "2020-11-04",
+   "episode_title": "E11: Election Night Special featuring Phil Hellmuth, Bill Gurley, Brad Gerstner & more!",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E011.mp3?dest-id=1928300",
+   "time": "~2:10",
+   "speaker": "Jason",
+   "attribution": "high",
+   "claim": "Prop 22 will pass tonight",
+   "quote": "it's looking like Prop 22 will pass",
+   "topic": "Politics",
+   "boldness": 2,
+   "importance": 2,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 4,
+   "resolution": "Prop 22 passed with about 59% of the vote, the most expensive ballot measure in California history (~$225M, mostly from the gig companies).",
+   "sources": [
+    "https://apnews.com/uber-lyft-prevail-to-keep-california-workers-independent-a64c714a9a3d3cc8272ce40c697e9b0f"
+   ],
+   "ts": 7800,
+   "id": 135
+  },
+  {
+   "episode": "E11",
+   "episode_date": "2020-11-04",
+   "episode_title": "E11: Election Night Special featuring Phil Hellmuth, Bill Gurley, Brad Gerstner & more!",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E011.mp3?dest-id=1928300",
+   "time": "~2:50",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "We may not know the winner until December, and it may require another Supreme Court case",
+   "quote": "we may not know who the winner is till December, and this may require another Supreme Court case.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 3,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 9,
+   "resolution": "AP called the race on Nov 7, four days after Election Day. No Supreme Court case decided the outcome; the Trump campaign's dozens of suits failed in lower courts.",
+   "sources": [
+    "https://apnews.com/article/why-did-AP-call-election-for-Biden-fe79276cd9175fffc7cf4fb58045fcf9"
+   ],
+   "ts": 10200,
+   "id": 136
+  },
+  {
+   "episode": "E11",
+   "episode_date": "2020-11-04",
+   "episode_title": "E11: Election Night Special featuring Phil Hellmuth, Bill Gurley, Brad Gerstner & more!",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E011.mp3?dest-id=1928300",
+   "time": "~2:58",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Final election-night call: scenario three - Biden presidency, Republican Senate",
+   "quote": "I'm changing my prediction to scenario three: Biden presidency, Republican Senate.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 4,
+   "status": "partial",
+   "accuracy": 0.5,
+   "weight": 12,
+   "resolution": "Half right. Biden won the presidency, but Democrats won both Georgia runoffs on Jan 5, 2021, splitting the Senate 50-50 with VP Harris breaking ties. Sacks got the presidency right and the Senate wrong.",
+   "sources": [
+    "https://apnews.com/article/why-did-AP-call-election-for-Biden-fe79276cd9175fffc7cf4fb58045fcf9",
+    "https://www.opensecrets.org/news/2021/01/georgia-senate-races-shatter-records/"
+   ],
+   "ts": 10680,
+   "id": 137
+  },
+  {
+   "episode": "E11",
+   "episode_date": "2020-11-04",
+   "episode_title": "E11: Election Night Special featuring Phil Hellmuth, Bill Gurley, Brad Gerstner & more!",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E011.mp3?dest-id=1928300",
+   "time": "~2:58",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "Final election-night call: flips to Trump on the betting math",
+   "quote": "I have to go with the math. I think Trump, uh, a dollar 60 is pretty significant, so I have to pick that direction.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 4,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 12,
+   "resolution": "The end-of-show flip aged badly: AP called it for Biden on Nov 7. Chamath's earlier same-night call (Biden via the Philly mail-in count) was the correct one.",
+   "sources": [
+    "https://apnews.com/article/why-did-AP-call-election-for-Biden-fe79276cd9175fffc7cf4fb58045fcf9"
+   ],
+   "ts": 10680,
+   "id": 138
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~5m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Trump's court challenges are very, very unlikely to prevail; Joe Biden will be the next president",
+   "quote": "I think there's a series of of court challenges we can talk about. I think that they're unlikely to prevail, very, very unlikely. I think Joe Biden will be the next president.",
+   "topic": "Politics",
+   "boldness": 2,
+   "importance": 4,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 8,
+   "resolution": "The Trump campaign and allies lost or withdrew 60+ post-election lawsuits, the Electoral College certified Biden on Dec 14, and Biden was inaugurated Jan 20, 2021.",
+   "sources": [
+    "https://apnews.com/article/why-did-AP-call-election-for-Biden-fe79276cd9175fffc7cf4fb58045fcf9"
+   ],
+   "ts": 300,
+   "id": 139
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~21m",
+   "speaker": "Friedberg",
+   "attribution": "high",
+   "claim": "COVID rules become permanent: we never go back to normal (the TSA-fication of daily life)",
+   "quote": "it's after 9/11, you know, the TSA emerged and American travel never went back to the way it was before... I don't think we should kid ourselves that we're going to go back to quote-unquote normal... I think that's permanent.",
+   "topic": "COVID",
+   "boldness": 4,
+   "importance": 3,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 12,
+   "resolution": "The permanent-scar call missed. Mask mandates and distancing rules were rolled back through 2021-2022, and the federal COVID-19 public health emergency formally ended May 11, 2023. No lasting TSA-style COVID screening regime materialized.",
+   "sources": [
+    "https://archive.cdc.gov/www_cdc_gov/coronavirus/2019-ncov/your-health/end-of-phe.html"
+   ],
+   "ts": 1260,
+   "id": 140
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~24m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "Best case is an 80% return to normal, and not until 2022, maybe 2023",
+   "quote": "the best we'll get back to is sort of this 80% state, and I don't think it happens until probably 2022 and maybe 2023, but probably 2022.",
+   "topic": "COVID",
+   "boldness": 3,
+   "importance": 3,
+   "status": "partial",
+   "accuracy": 0.5,
+   "weight": 9,
+   "resolution": "Directionally cautious and roughly right on full normalcy: broad reopening came mid-2021, but Delta and Omicron kept restrictions and disruption cycling into 2022. Too pessimistic on the first leg (summer 2021 reopening), right that 2021 was not clean.",
+   "sources": [
+    "https://archive.cdc.gov/www_cdc_gov/coronavirus/2019-ncov/your-health/end-of-phe.html"
+   ],
+   "ts": 1440,
+   "id": 141
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~25m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "COVID is a distant memory by next summer",
+   "quote": "I think COVID is going to be a distant memory by next summer.",
+   "topic": "COVID",
+   "boldness": 3,
+   "importance": 3,
+   "status": "partial",
+   "accuracy": 0.5,
+   "weight": 9,
+   "resolution": "Half right: summer 2021 brought a genuine reopening boom as vaccines rolled out, but the Delta surge arrived in July 2021 and Omicron that winter - COVID was not a distant memory.",
+   "sources": [
+    "https://archive.cdc.gov/www_cdc_gov/coronavirus/2019-ncov/your-health/end-of-phe.html"
+   ],
+   "ts": 1500,
+   "id": 142
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~26m",
+   "speaker": "Jason",
+   "attribution": "high",
+   "claim": "Burning Man next year becomes the greatest Burning Man ever",
+   "quote": "I think Burning Man next year becomes like the the the greatest Burning Man ever. It'll be It'll be the burn of of of all burns.",
+   "topic": "Society",
+   "boldness": 3,
+   "importance": 2,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 6,
+   "resolution": "Burning Man 2021 was cancelled on April 27, 2021 - the second consecutive cancellation.",
+   "sources": [
+    "https://apnews.com/article/coronavirus-pandemic-reno-covid-19-pandemic-cultures-nevada-f1fe13dd4f86899b569f9b562218f799"
+   ],
+   "ts": 1560,
+   "id": 143
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~26m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Gridlock is great for the markets",
+   "quote": "gridlock is great for uh the markets, especially given the amount of stimulus that's taken place.",
+   "topic": "Markets",
+   "boldness": 2,
+   "importance": 3,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 6,
+   "resolution": "The S&P 500 returned 26.6% in 2021 (28.4% with dividends reinvested) under divided-or-deadlocked Washington expectations.",
+   "sources": [
+    "https://dqydj.com/2021-sp-500-return/"
+   ],
+   "ts": 1560,
+   "id": 144
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~28m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "If Democrats flip both Georgia Senate seats, the market drops 30-40% within 6 months",
+   "quote": "if the Democrats... actually flip um get both of those seats to be uh um uh to be blue, uh it's going to be a very different market environment. I mean you could see the market drop by 30, 40% uh in the next 6 months.",
+   "topic": "Markets",
+   "boldness": 5,
+   "importance": 4,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 20,
+   "resolution": "Democrats won both Georgia runoffs on Jan 5, 2021. No 30-40% crash followed: the S&P 500 rose double digits over the next six months and finished 2021 up 26.6%.",
+   "sources": [
+    "https://www.opensecrets.org/news/2021/01/georgia-senate-races-shatter-records/",
+    "https://dqydj.com/2021-sp-500-return/"
+   ],
+   "ts": 1680,
+   "id": 145
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~27m",
+   "speaker": "Friedberg",
+   "attribution": "high",
+   "claim": "The Georgia runoffs will be the biggest-funded Senate races in history, north of $100M",
+   "quote": "I think we're going to see literally the biggest um the the biggest funding for a Senate runoff race in history by far... probably north of a hundred million",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 2,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 6,
+   "resolution": "Per OpenSecrets, Ossoff-Perdue (~$470M) and Warnock-Loeffler (~$363M) became the two most expensive Senate races ever, each smashing the prior ~$299M record.",
+   "sources": [
+    "https://www.opensecrets.org/news/2021/01/georgia-senate-races-shatter-records/"
+   ],
+   "ts": 1620,
+   "id": 146
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~44m",
+   "speaker": "Friedberg",
+   "attribution": "high",
+   "claim": "The media is the biggest loser of the 2020 election",
+   "quote": "the media generally is the biggest loser of the uh of the 2020 election. And I think I I think they've just lost the um uh the faith of their audience",
+   "topic": "Media",
+   "boldness": 3,
+   "importance": 3,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 9,
+   "resolution": "Gallup (Oct 2021): trust in media fell to 36%, the second-lowest reading on record, with Republican trust at 11%. Post-election cable news audiences collapsed through 2021.",
+   "sources": [
+    "https://news.gallup.com/poll/355526/americans-trust-media-dips-second-lowest-record.aspx"
+   ],
+   "ts": 2640,
+   "id": 147
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~47m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Trump calls it (concedes) by Thanksgiving",
+   "quote": "I think he has to run out these court challenges, which will take a few weeks. But I I predict by Thanksgiving",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 2,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 6,
+   "resolution": "Thanksgiving 2020 came and went with no concession - Trump never conceded, and was still claiming the election was stolen through Jan 6 and beyond.",
+   "sources": [
+    "https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/html-submitted/ch1.html"
+   ],
+   "ts": 2820,
+   "id": 148
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~49m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "If Trump runs in four years, he probably gets the Republican nomination again",
+   "quote": "if he wants to run four years from now, um I think he probably gets the Republican nomination again.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 4,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 12,
+   "resolution": "Trump announced his 2024 run in November 2022 and officially clinched the Republican nomination at the July 2024 RNC.",
+   "sources": [
+    "https://apnews.com/article/trump-republican-national-convention-58c09e396b79751c44baed14a1b432a8"
+   ],
+   "ts": 2940,
+   "id": 149
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~49m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "Chance Trump runs again in four years: zero",
+   "quote": "What's the percentage chance, Chamath, that he runs again in four years? Zero.",
+   "topic": "Politics",
+   "boldness": 4,
+   "importance": 4,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 16,
+   "resolution": "Trump announced his 2024 campaign on Nov 15, 2022 and won the nomination (and later the presidency).",
+   "sources": [
+    "https://apnews.com/article/trump-republican-national-convention-58c09e396b79751c44baed14a1b432a8"
+   ],
+   "ts": 2940,
+   "id": 150
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~50m",
+   "speaker": "Friedberg",
+   "attribution": "high",
+   "claim": "Trump won't go back to politics - he'll be making so much money",
+   "quote": "I think he's going to be making so much money he's not going to know what to do with himself. He's not going back to that fucking torture torture house.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 3,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 9,
+   "resolution": "Trump went straight back: he teased a run from early 2021, announced in Nov 2022, and won the 2024 nomination and election.",
+   "sources": [
+    "https://apnews.com/article/trump-republican-national-convention-58c09e396b79751c44baed14a1b432a8"
+   ],
+   "ts": 3000,
+   "id": 151
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~52m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Trump launches a media business and becomes the kingmaker of Republican politics (a Fox competitor hybridized with a grassroots movement)",
+   "quote": "he's definitely going to launch a media business, and uh he'll he'll try to become kingmaker. I think I think he will become a kingmaker in Republican politics. He will launch a competitor to Fox News, but it will also be Fox News hybridized with a grassroots movement like the Tea Party, and every Republican will need to go get his endorsement or they will be primaried by the Trump party.",
+   "topic": "Politics",
+   "boldness": 4,
+   "importance": 3,
+   "status": "partial",
+   "accuracy": 0.5,
+   "weight": 12,
+   "resolution": "Kingmaker: clearly right - Trump's endorsement dominated the 2022 and 2024 GOP primaries. Media business: right that he launched one (Truth Social, Feb 2022; TMTG public via DWAC March 2024), but it became a Twitter clone, not a Fox-competitor TV network.",
+   "sources": [
+    "https://www.reuters.com/markets/deals/investors-greenlight-trumps-6-billion-social-media-deal-2024-03-22/",
+    "https://www.sec.gov/Archives/edgar/data/1849635/000119312524076188/d817032dex991.htm"
+   ],
+   "ts": 3120,
+   "id": 152
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~53m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "Trump will be no kingmaker; his network will be 'Breitbart Light' and shut down within 24 months",
+   "quote": "Not only is he not going to be a kingmaker, he will not be able to get the backing for this network. It'll be Breitbart Light, and it'll be shut down within 24 months.",
+   "topic": "Politics",
+   "boldness": 4,
+   "importance": 3,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 12,
+   "resolution": "Both halves missed: Truth Social launched Feb 2022 and is still operating (parent TMTG went public March 2024 in a ~$5.7B deal), and Trump became the GOP's dominant kingmaker and 2024 nominee.",
+   "sources": [
+    "https://www.reuters.com/markets/deals/investors-greenlight-trumps-6-billion-social-media-deal-2024-03-22/",
+    "https://www.sec.gov/Archives/edgar/data/1849635/000119312524076188/d817032dex991.htm"
+   ],
+   "ts": 3180,
+   "id": 153
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~55m",
+   "speaker": "Friedberg",
+   "attribution": "high",
+   "claim": "The Donald Trump who runs for president in 2024 is very likely Donald Trump Jr.",
+   "quote": "I think that it's very likely that the Donald Trump that runs for president in 2024 is Donald Trump Jr.",
+   "topic": "Politics",
+   "boldness": 4,
+   "importance": 3,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 12,
+   "resolution": "Donald Trump himself ran and won the 2024 Republican nomination; Don Jr. never ran.",
+   "sources": [
+    "https://apnews.com/article/trump-republican-national-convention-58c09e396b79751c44baed14a1b432a8"
+   ],
+   "ts": 3300,
+   "id": 154
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~57m",
+   "speaker": "Friedberg",
+   "attribution": "high",
+   "claim": "Trump will be out by December 15th - this will all be done",
+   "quote": "He'll He'll be out by December 15th, meaning it'll it'll This will all be done.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 2,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 6,
+   "resolution": "The Electoral College certified on Dec 14, 2020, but Trump did not accept it - the fight escalated through the Jan 6, 2021 Capitol attack and he never conceded.",
+   "sources": [
+    "https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/html-submitted/ch1.html"
+   ],
+   "ts": 3420,
+   "id": 155
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~58m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Trump will accept the result when it comes from the Supreme Court",
+   "quote": "Trump will accept the result He may not concede, but he will accept the result when it comes from the Supreme Court.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 3,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 9,
+   "resolution": "The Supreme Court never took a decisive case (it rejected the Texas suit Dec 11, 2020), and Trump accepted nothing: per the Jan 6 committee report, 'regardless of the facts, the President had no intention of conceding defeat.'",
+   "sources": [
+    "https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/html-submitted/ch1.html"
+   ],
+   "ts": 3480,
+   "id": 156
+  },
+  {
+   "episode": "E12",
+   "episode_date": "2020-11-11",
+   "episode_title": "E12: Biden wins, Pfizer vaccine, markets rip, Trump's next act, COVID endgame scenarios & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E012.mp3?dest-id=1928300",
+   "time": "~63m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "San Francisco will file for bankruptcy in the next 10 to 15 years",
+   "quote": "Mark my words, San Francisco will file for bankruptcy in the next 10 years... Maybe 15 maybe 15 years, but yeah, 10 to 15 years.",
+   "topic": "SF/Tech",
+   "boldness": 5,
+   "importance": 3,
+   "status": "pending",
+   "accuracy": null,
+   "weight": 15,
+   "resolution": "Unresolved - the window runs to 2030-2035. San Francisco has run large structural deficits but has not filed for bankruptcy as of 2026.",
+   "sources": [],
+   "ts": 3780,
+   "id": 157
   }
  ],
  "leaderboard": [
   {
    "name": "Sacks",
-   "score": 60.1,
-   "n": 34,
-   "correct": 19,
-   "partial": 7,
-   "wrong": 8
+   "score": 55.6,
+   "n": 45,
+   "correct": 22,
+   "partial": 10,
+   "wrong": 13
   },
   {
    "name": "Friedberg",
-   "score": 56.4,
-   "n": 27,
-   "correct": 15,
+   "score": 49.4,
+   "n": 34,
+   "correct": 17,
    "partial": 5,
-   "wrong": 7
+   "wrong": 12
   },
   {
    "name": "Jason",
-   "score": 39.5,
-   "n": 12,
-   "correct": 4,
+   "score": 44.2,
+   "n": 15,
+   "correct": 6,
    "partial": 2,
-   "wrong": 6
+   "wrong": 7
   },
   {
    "name": "Chamath",
-   "score": 38.4,
-   "n": 50,
-   "correct": 18,
-   "partial": 14,
-   "wrong": 18
+   "score": 37.0,
+   "n": 56,
+   "correct": 19,
+   "partial": 15,
+   "wrong": 22
   }
  ],
  "profiles": {
@@ -3059,49 +3715,49 @@
   "note": "AI-generated analysis from the measured grades below; refreshed as new episodes are graded.",
   "by_speaker": {
    "Chamath": {
-    "graded": 50,
-    "ungraded": 0,
-    "avg_boldness": 3.2,
+    "graded": 56,
+    "ungraded": 1,
+    "avg_boldness": 3.3,
     "strengths": [
      "Policy (80, 2 graded)"
     ],
     "weaknesses": [
-     "COVID (31, 7 graded)",
+     "COVID (33, 8 graded)",
      "Geopolitics (30, 3 graded)",
      "Health (20, 2 graded)",
-     "Markets (18, 7 graded)",
-     "Macro (15, 3 graded)"
+     "Macro (15, 3 graded)",
+     "Markets (15, 8 graded)"
     ],
-    "best_id": 61,
-    "best_claim": "Trump loses the 2020 election - 75/25 odds",
+    "best_id": 132,
+    "best_claim": "Sticking with Biden: the uncounted Philadelphia mail-in vote (350-500k) carries Pennsylvania",
     "worst_id": 8,
     "worst_claim": "More people will die from second- and third-order economic effects than from the virus itself",
-    "summary": "The volume shooter - more graded takes than anyone else on the panel and the boldest on average. When he stays in his lane (tech, startups, policy mechanics) he is genuinely strong; his disasters come from macro market timing (the March 2020 bottom call missed by about seven months) and, in the fall 2020 run, big political-structure swings: Section 230 repeal, Biden serving one term, and the family-pardon call all went wrong, dragging him to last place (38.4) and a 10-point Q4."
+    "summary": "The volume shooter - most graded takes and boldest on average, still #4 at 37.0. The election specials show both sides of him: his Philly mail-in read on election night was the single best call of the two episodes (mechanism and winner both right), but he flipped to Trump on betting odds before the same show ended. Then E12: 'zero chance Trump runs in 4 years', 'Breitbart Light, shut down within 24 months', and a 30-40% market crash if Democrats took Georgia - all wrong. The SF bankruptcy call (10-15 yr horizon) is pending. Strong in his lane, expensive outside it."
    },
    "Friedberg": {
-    "graded": 27,
+    "graded": 34,
     "ungraded": 6,
-    "avg_boldness": 2.9,
+    "avg_boldness": 3.0,
     "strengths": [
      "Economy (100, 2 graded)",
      "Health (91, 6 graded)",
      "Tech (60, 2 graded)"
     ],
     "weaknesses": [
-     "Politics (10, 3 graded)"
+     "Politics (11, 8 graded)"
     ],
     "best_id": 56,
     "best_claim": "A staged COVID vaccine release will begin in Q4 2020, with doses available for healthcare and frontline workers by end of year",
     "worst_id": 62,
     "worst_claim": "Trump still wins the 2020 election - 70% chance",
-    "summary": "The scientist, now #2. The single best topic score on the board is his health calls - he nailed the vaccine timeline and the fatality-rate band while those were genuinely uncertain, though his 0.1% true-IFR band came in too low. He also called the Coinbase culture bet and 2021's boom correctly. His kryptonite is electoral politics: the '70% Trump' call is the biggest-weight miss on his card. Strongest quarter on the board in Q4 2020 (79)."
+    "summary": "The scientist, #2. The best early topic score on the board is still his health calls - vaccine timeline and fatality band while genuinely uncertain. E12 was a mixed bag: correctly called the media as the 2020 election's biggest loser and the record-breaking Georgia runoff money, but the 'COVID rules are permanent / TSA-fication' call missed hard, 'Donald Trump Jr. runs in 2024' missed, and 'Trump out by December 15th' missed. On election night he read the markets as a Trump win."
    },
    "Jason": {
-    "graded": 12,
+    "graded": 15,
     "ungraded": 0,
-    "avg_boldness": 2.7,
+    "avg_boldness": 2.6,
     "strengths": [
-     "Politics (65, 6 graded)"
+     "Politics (72, 8 graded)"
     ],
     "weaknesses": [
      "COVID (0, 3 graded)",
@@ -3111,25 +3767,25 @@
     "best_claim": "Biden wins the 2020 election, and wins big",
     "worst_id": 89,
     "worst_claim": "Vaccine progress plus the debates means Trump sails to re-election",
-    "summary": "Boom or bust on the smallest sample on the board. He called the 2020 election right twice over ('Biden wins big', then the landslide lean - graded partial on margin), plus the NBC town-hall ambush, while going 0-for on COVID and markets early on. Now ahead of Chamath at 39.5. Treat the score as provisional: his sample is still about a quarter of Chamath's."
+    "summary": "Boom or bust on the smallest sample on the board, now 44.2 and #3. Election night 2020 was his best showing: picked Biden with the popular-vote margin (~4-5 pts, actual 4.5) and called Prop 22's passage, adding to his earlier Biden calls. The misses are memorable rather than costly - 'greatest Burning Man ever' was cancelled outright. Early COVID and markets calls remain his soft spot. Treat the score as provisional given the sample size."
    },
    "Sacks": {
-    "graded": 34,
+    "graded": 45,
     "ungraded": 0,
     "avg_boldness": 2.9,
     "strengths": [
      "Geopolitics (90, 4 graded)",
      "Tech (83, 3 graded)",
-     "COVID (83, 7 graded)"
+     "Health (80, 2 graded)"
     ],
     "weaknesses": [
-     "Politics (32, 12 graded)"
+     "Politics (33, 21 graded)"
     ],
     "best_id": 49,
     "best_claim": "Imperial College's 2.2 million US death projection was insane fear-mongering, and that has been borne out",
     "worst_id": 31,
     "worst_claim": "PREDICTION: no new gun-control legislation for a generation",
-    "summary": "The most disciplined caller on the panel and still #1. Perfect on COVID policy (lockdown skepticism, the Imperial College takedown), and he nailed both the Trump COVID recovery timeline and the SF-to-America tech spread. His misses cluster in electoral politics and late-2020 COVID optimism - the 'no gun-control legislation for a generation' pledge died in June 2022, the laptop-skepticism and 'winding down on COVID' calls aged badly, and his Trump-underdog bet didn't cash. No bad quarters until Q4 2020's 50."
+    "summary": "The most disciplined caller on the panel and still #1, though the election specials dented him: he went with the betting markets for Trump on election night, called Michigan for Trump, and predicted both a December/Supreme Court fight and a Thanksgiving concession that never came. His 'scenario three' (Biden + GOP Senate) was half right, and he nailed the two best structural Trump calls of E12 - 'probably gets the nomination if he runs in 4 years' and the kingmaker/media-venture prediction (partial: Truth Social became a Twitter clone, not a Fox competitor). Still perfect on early COVID policy, with the 'distant memory by summer' optimism landing partial. Misses cluster in electoral politics."
    }
   }
  },
@@ -3155,8 +3811,8 @@
      "graded": 22
     },
     "2020-Q4": {
-     "score": 10,
-     "graded": 4
+     "score": 22,
+     "graded": 10
     }
    },
    "Friedberg": {
@@ -3173,8 +3829,8 @@
      "graded": 9
     },
     "2020-Q4": {
-     "score": 79,
-     "graded": 3
+     "score": 35,
+     "graded": 10
     }
    },
    "Jason": {
@@ -3192,7 +3848,7 @@
     },
     "2020-Q4": {
      "score": 70,
-     "graded": 3
+     "graded": 6
     }
    },
    "Sacks": {
@@ -3205,13 +3861,13 @@
      "graded": 16
     },
     "2020-Q4": {
-     "score": 50,
-     "graded": 7
+     "score": 44,
+     "graded": 18
     }
    }
   },
-  "updated": "2020-Q4",
+  "updated": "2026-09-09",
   "note": "AI-generated commentary on measured quarterly scores; switches to annual as multi-year coverage lands.",
-  "commentary": "The arc of 2020: Chamath started the pandemic catastrophically wrong (14 in Q1 - the market-bottom and death-toll calls), improved through Q3 (59), then face-planted in Q4 (10) on the big political-structure bets - Section 230, one-term Biden, the family pardon. Friedberg moved the other way: brilliant on early COVID science, dipped as the show turned to politics, then posted the best quarter on the board in Q4 (79) on the Coinbase and 2021-boom calls. Sacks held the top all year but slipped to 50 in Q4 on the laptop and winding-down-COVID calls. Jason swings hard on a thin sample and finished 2020 strong (70). Annual drift becomes visible once 2021+ episodes land."
+  "commentary": "The arc of 2020: Chamath started the pandemic catastrophically wrong (14 in Q1 - the market-bottom and death-toll calls), improved through Q3 (59), then sank again in Q4 (22) on the big political-structure bets: zero-chance-Trump-2024, the Georgia market-crash call, Breitbart Light. Jason quietly posted the best Q4 on the board (70) on his election-night Biden read. Sacks held the top all year but slipped to 44 in Q4 - the election-night Trump lean, Michigan, and the Thanksgiving-concession calls all missed, partially offset by the 2024-nomination and kingmaker calls. Friedberg's Q4 (35) mixed strong media/Georgia-money reads with the permanent-COVID-rules miss. Coverage now runs E0-E12; annual trend view activates as multi-year coverage lands."
  }
 }
