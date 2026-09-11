@@ -85,6 +85,26 @@
    "title": "E16: Reflecting on the riots at the US Capitol, plus: Georgia runoff elections, vaccine distribution & more",
    "date": "2021-01-08",
    "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E016.mp3?dest-id=1928300"
+  },
+  "E17": {
+   "title": "E17: Big Tech bans Trump, ramifications for the First Amendment & the open Internet",
+   "date": "2021-01-11",
+   "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E017.mp3?dest-id=1928300"
+  },
+  "E18": {
+   "title": "E18: Inauguration talk, breaking down the $1.9T stimulus, the case for recalling Gavin Newsom & more",
+   "date": "2021-01-23",
+   "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E018.mp3?dest-id=1928300"
+  },
+  "E19": {
+   "title": "E19: Breaking down Robinhood's GameStop decision: Why did it happen and how can it be prevented in the future?",
+   "date": "2021-01-30",
+   "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E019.mp3?dest-id=1928300"
+  },
+  "E20": {
+   "title": "E20: Robinhood wrap up, Insiders vs. Outsiders, California's failing report card & how to fix it",
+   "date": "2021-02-03",
+   "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E20.mp3?dest-id=1928300"
   }
  },
  "predictions": [
@@ -4385,40 +4405,273 @@
    ],
    "ts": 4440,
    "id": 187
+  },
+  {
+   "episode": "E17",
+   "episode_date": "2021-01-11",
+   "episode_title": "E17: Big Tech bans Trump, ramifications for the First Amendment & the open Internet",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E017.mp3?dest-id=1928300",
+   "time": "~13m",
+   "speaker": "Jason",
+   "attribution": "high",
+   "claim": "Trump is going to jail",
+   "quote": "You think you think Trump is going to jail? Yes.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 3,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 9,
+   "resolution": "Trump was convicted on 34 NY felony counts but sentenced to an unconditional discharge on Jan 10, 2025 - no jail, no fine, no probation - and both federal cases were dropped after his 2024 win. He has never been jailed.",
+   "sources": [
+    "https://www.npr.org/2025/01/10/nx-s1-5253927/trump-sentencing-new-york",
+    "https://apnews.com/article/trump-capitol-riot-justice-department-jack-smith-d6172cf98d8e03e099571c908267456c"
+   ],
+   "ts": 780,
+   "id": 188
+  },
+  {
+   "episode": "E17",
+   "episode_date": "2021-01-11",
+   "episode_title": "E17: Big Tech bans Trump, ramifications for the First Amendment & the open Internet",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E017.mp3?dest-id=1928300",
+   "time": "~42m",
+   "speaker": "Friedberg",
+   "attribution": "high",
+   "claim": "Peer-to-peer social platforms (Mastodon and the like) will be deployed, compete with Big Tech, and be impossible to ban",
+   "quote": "There is Mastodon and plenty of other peer-to-peer software that will be deployed, I predict. And that will put up uh competition now for these services. And it will be impossible to ban those peer-to-peer uh platforms... There'll be a free market response to Parler being shut down.",
+   "topic": "Tech",
+   "boldness": 3,
+   "importance": 2,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 6,
+   "resolution": "The decentralized wave arrived: Mastodon's user base surged after the 2022 Twitter sale, and Bluesky - born from the Twitter project discussed this same episode - opened in 2023 and passed 30M users by 2025 as a protocol-based network no single company can switch off.",
+   "sources": [
+    "https://techcrunch.com/2025/01/06/bluesky-bump-from-x-exodus-is-slowing-down-data-shows/",
+    "https://www.statista.com/statistics/1536616/global-bluesky-users/"
+   ],
+   "ts": 2520,
+   "id": 189
+  },
+  {
+   "episode": "E17",
+   "episode_date": "2021-01-11",
+   "episode_title": "E17: Big Tech bans Trump, ramifications for the First Amendment & the open Internet",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E017.mp3?dest-id=1928300",
+   "time": "~82m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Big Tech is getting broken up anyway - and Facebook is next",
+   "quote": "It's too little, too late. They're going to break you up anyway... You're going to get broken up anyway. And, by the way, Facebook's next.",
+   "topic": "Tech",
+   "boldness": 3,
+   "importance": 2,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 6,
+   "resolution": "Five-plus years on, no breakup: Google's 2025 antitrust remedies explicitly rejected a Chrome divestiture, Meta won its FTC case at trial in late 2025 without a breakup order, and every platform named that week is intact and larger.",
+   "sources": [
+    "https://apnews.com/article/google-search-antitrust-remedies-chrome-846916fda0943c5fa359385044a02c8b"
+   ],
+   "ts": 4920,
+   "id": 190
+  },
+  {
+   "episode": "E18",
+   "episode_date": "2021-01-23",
+   "episode_title": "E18: Inauguration talk, breaking down the $1.9T stimulus, the case for recalling Gavin Newsom & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E018.mp3?dest-id=1928300",
+   "time": "~35m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "Big Tech will be regulated into quasi-governmental utilities - capitalism is voting they won't be companies much longer",
+   "quote": "the smart money is betting that they're going to be regulated and something's going to change. It's going to be a quasi-governmental organization... they're going to become utilities... they're getting they're going to get regulated like utilities at some point.",
+   "topic": "Tech",
+   "boldness": 3,
+   "importance": 2,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 6,
+   "resolution": "The smart money bet the other way: the mega-cap platforms became the dominant trade of the decade, and no utility-style common-carrier regime was imposed in the US. The EU's DMA (2022) added compliance duties but nothing like quasi-nationalization.",
+   "sources": [
+    "https://apnews.com/article/google-search-antitrust-remedies-chrome-846916fda0943c5fa359385044a02c8b"
+   ],
+   "ts": 2100,
+   "id": 191
+  },
+  {
+   "episode": "E18",
+   "episode_date": "2021-01-23",
+   "episode_title": "E18: Inauguration talk, breaking down the $1.9T stimulus, the case for recalling Gavin Newsom & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E018.mp3?dest-id=1928300",
+   "time": "~37m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "The TikTok ban will get swept under the rug under Biden - no restrictions on TikTok",
+   "quote": "I think the sad reality is that the whole TikTok thing is going to get swept under the rug. Um I think there'll be no restrictions on TikTok.",
+   "topic": "Tech",
+   "boldness": 2,
+   "importance": 2,
+   "status": "partial",
+   "accuracy": 0.5,
+   "weight": 4,
+   "resolution": "Half right in effect. Biden revoked Trump's ban order in June 2021 and TikTok operated freely for years - but in April 2024 Congress passed a divest-or-ban law, the Supreme Court upheld it in January 2025, and the app briefly went dark before serial extensions kept it running while a US sale was negotiated.",
+   "sources": [
+    "https://www.pbs.org/newshour/politics/supreme-court-upholds-tiktok-ban-if-not-sold-by-chinese-trump-has-promised-a-solution"
+   ],
+   "ts": 2220,
+   "id": 192
+  },
+  {
+   "episode": "E18",
+   "episode_date": "2021-01-23",
+   "episode_title": "E18: Inauguration talk, breaking down the $1.9T stimulus, the case for recalling Gavin Newsom & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E018.mp3?dest-id=1928300",
+   "time": "~52m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "The worst-case outcome of the trillions in stimulus is inflation that wipes out middle-class savings",
+   "quote": "all of this money has to be paid back at some point... if you're middle-class, your savings get wiped out, you know... that money is now worth a lot less and you're destroyed",
+   "topic": "Macro",
+   "boldness": 3,
+   "importance": 3,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 9,
+   "resolution": "The inflation call was dead on: CPI hit 9.1% in June 2022, the highest in 40 years, and real wages went negative for over a year. His tail risks (dollar losing reserve status, a debt crisis) did not materialize.",
+   "sources": [
+    "https://www.bls.gov/opub/ted/2022/consumer-prices-up-9-1-percent-over-the-year-ended-june-2022-largest-increase-in-40-years.htm"
+   ],
+   "ts": 3120,
+   "id": 193
+  },
+  {
+   "episode": "E18",
+   "episode_date": "2021-01-23",
+   "episode_title": "E18: Inauguration talk, breaking down the $1.9T stimulus, the case for recalling Gavin Newsom & more",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E018.mp3?dest-id=1928300",
+   "time": "~63m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "The US will re-emerge like a phoenix over the next 10-20 years on climate, agriculture, biotech and technology innovation, recasting GDP",
+   "quote": "I think in the next 10 and 20 years, the United States is going to fucking re-emerge like a phoenix, and the reason and the reason is going to because of innovation around climate change and agriculture and biotechnology and technology... These four areas are going to recast GDP",
+   "topic": "Macro",
+   "boldness": 4,
+   "importance": 3,
+   "status": "pending",
+   "accuracy": null,
+   "weight": 12,
+   "resolution": "Unresolved - the horizon runs 2031-2041. The AI and biotech investment boom is consistent with the thesis so far.",
+   "sources": [],
+   "ts": 3780,
+   "id": 194
+  },
+  {
+   "episode": "E19",
+   "episode_date": "2021-01-30",
+   "episode_title": "E19: Breaking down Robinhood's GameStop decision: Why did it happen and how can it be prevented in the future?",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E019.mp3?dest-id=1928300",
+   "time": "~15m",
+   "speaker": "Jason",
+   "attribution": "high",
+   "claim": "Robinhood will survive the GameStop crisis and ride it out",
+   "quote": "And they will, I believe, Robinhood will ride it out because they throttle the number of people coming into the platform.",
+   "topic": "Markets",
+   "boldness": 2,
+   "importance": 2,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 4,
+   "resolution": "They did. Robinhood drew a $600M credit line and raised $3.4B within days, went public in July 2021 raising $2.1B at a ~$32B valuation, and operates today.",
+   "sources": [
+    "https://apnews.com/article/robinhood-investors-gamestop-reddit-b49f4aed795b09478951fbbd1c566885",
+    "https://www.reuters.com/business/finance/robinhood-gateway-meme-stocks-raises-21-billion-ipo-source-2021-07-28/"
+   ],
+   "ts": 900,
+   "id": 195
+  },
+  {
+   "episode": "E19",
+   "episode_date": "2021-01-30",
+   "episode_title": "E19: Breaking down Robinhood's GameStop decision: Why did it happen and how can it be prevented in the future?",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E019.mp3?dest-id=1928300",
+   "time": "~43m",
+   "speaker": "Chamath",
+   "attribution": "high",
+   "claim": "Robinhood is going to get sued into oblivion over the trading halt",
+   "quote": "I think that what's going to happen is they're going to get sued into oblivion. I think that the class action lawsuits here...",
+   "topic": "Markets",
+   "boldness": 2,
+   "importance": 2,
+   "status": "wrong",
+   "accuracy": 0,
+   "weight": 4,
+   "resolution": "The opposite: courts dismissed the main meme-stock class actions (Nov 2021 and Jan 2022), and Robinhood's worst legal hit was a $70M FINRA penalty - a cost of doing business, not oblivion. The company IPO'd months later.",
+   "sources": [
+    "https://www.reuters.com/markets/us/robinhood-others-win-dismissal-meme-stock-short-squeeze-lawsuit-2021-11-18/",
+    "https://www.reuters.com/business/court-dismisses-claims-robinhood-wrongly-restricted-meme-stock-trades-2022-01-27/"
+   ],
+   "ts": 2580,
+   "id": 196
+  },
+  {
+   "episode": "E19",
+   "episode_date": "2021-01-30",
+   "episode_title": "E19: Breaking down Robinhood's GameStop decision: Why did it happen and how can it be prevented in the future?",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E019.mp3?dest-id=1928300",
+   "time": "~72m",
+   "speaker": "Sacks",
+   "attribution": "high",
+   "claim": "GameStop is overvalued and this ends very badly for the retail buyers piling in",
+   "quote": "Do I personally think GameStop is overvalued? Yes, of course. I think it's going to end very badly.",
+   "topic": "Markets",
+   "boldness": 2,
+   "importance": 2,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 4,
+   "resolution": "Called it in real time: within four trading days GME had fallen ~85% from its January 28 peak (a 60% single-day drop on Feb 2), and it never sustainably returned to those levels.",
+   "sources": [
+    "https://apnews.com/article/gamestop-reddit-stock-shares-update-38ca4dc3f3010c1253039445110e5a7a",
+    "https://www.nytimes.com/2021/02/02/business/gamestop-investors-plunging-shares.html"
+   ],
+   "ts": 4320,
+   "id": 197
   }
  ],
  "leaderboard": [
   {
    "name": "Sacks",
-   "score": 56.7,
-   "n": 54,
-   "correct": 28,
+   "score": 56.4,
+   "n": 58,
+   "correct": 30,
    "partial": 12,
-   "wrong": 14
+   "wrong": 16
   },
   {
    "name": "Friedberg",
-   "score": 49.5,
-   "n": 38,
-   "correct": 19,
+   "score": 50.3,
+   "n": 39,
+   "correct": 20,
    "partial": 5,
    "wrong": 14
   },
   {
    "name": "Jason",
-   "score": 41.7,
-   "n": 22,
-   "correct": 8,
+   "score": 40.9,
+   "n": 24,
+   "correct": 9,
    "partial": 3,
-   "wrong": 11
+   "wrong": 12
   },
   {
    "name": "Chamath",
-   "score": 38.6,
-   "n": 63,
+   "score": 38.5,
+   "n": 65,
    "correct": 23,
-   "partial": 17,
-   "wrong": 23
+   "partial": 18,
+   "wrong": 24
   }
  ],
  "profiles": {
@@ -4426,8 +4679,8 @@
   "note": "AI-generated analysis from the measured grades below; refreshed as new episodes are graded.",
   "by_speaker": {
    "Chamath": {
-    "graded": 63,
-    "ungraded": 1,
+    "graded": 65,
+    "ungraded": 2,
     "avg_boldness": 3.2,
     "strengths": [
      "Society (100, 2 graded)",
@@ -4439,22 +4692,22 @@
      "Geopolitics (30, 3 graded)",
      "Health (20, 2 graded)",
      "Macro (15, 3 graded)",
-     "Markets (15, 8 graded)"
+     "Markets (15, 9 graded)"
     ],
     "best_id": 132,
     "best_claim": "Sticking with Biden: the uncounted Philadelphia mail-in vote (350-500k) carries Pennsylvania",
     "worst_id": 8,
     "worst_claim": "More people will die from second- and third-order economic effects than from the virus itself",
-    "summary": "The volume shooter - most graded takes and boldest on average, still #4 at 38.6. His E16 Capitol-riot calls aged well: 'gloves off - SDNY, every state, the feds - I will bet a million bucks something happens' produced four criminal cases, and the worst perpetrators blew past his 5-10 year floor (Tarrio 22, Rhodes 18). E15 was rougher: 'Nikki Haley will be the 2024 nominee - my money would be on her' joined the pile of wrong structural calls (zero-chance-Trump-2024, Breitbart Light, the Georgia market crash). His Pelosi-retirement money-call from E14 landed exactly. Strong in his lane, expensive outside it."
+    "summary": "The volume shooter - most graded takes and boldest on average, still #4 at 38.5. The GameStop episodes show the pattern in miniature: his diagnosis of the squeeze was sharp, but the call that made it onto the ledger - Robinhood 'sued into oblivion' - went wrong (courts dismissed the class actions; Robinhood IPO'd months later). January 2021 was otherwise kind: the E16 Capitol-riot legal calls produced four criminal cases, and his TikTok-swept-under-the-rug read graded partial. The drags stay structural: Nikki-Haley-2024, zero-chance-Trump-2024, Breitbart Light, the Georgia market crash. His 10-20 year US phoenix thesis (E18) is pending."
    },
    "Friedberg": {
-    "graded": 38,
+    "graded": 39,
     "ungraded": 7,
     "avg_boldness": 2.9,
     "strengths": [
      "Health (92, 7 graded)",
-     "Media (69, 2 graded)",
-     "Economy (67, 3 graded)"
+     "Tech (75, 3 graded)",
+     "Media (69, 2 graded)"
     ],
     "weaknesses": [
      "Politics (11, 8 graded)"
@@ -4463,18 +4716,16 @@
     "best_claim": "A staged COVID vaccine release will begin in Q4 2020, with doses available for healthcare and frontline workers by end of year",
     "worst_id": 62,
     "worst_claim": "Trump still wins the 2020 election - 70% chance",
-    "summary": "The scientist, #2 at 49.5. E14 played to his lane: 'someone replicates AlphaFold within 12-24 months, it's an inevitability' was dead on - RoseTTAFold shipped inside a year, ESMFold inside two. E15 added a quieter correct: amplified adverse-reaction stories would drive vaccine hesitancy, which is exactly what 2021 looked like. The misses are memorable: cheap wind/solar making oil extraction 'economically infeasible within 3 or 4 years' (US crude hit an all-time record instead), and 'no one's going back to movie theaters' (Spider-Man opened to $253M within the year). Biodefense-as-biggest-industry (2050+ horizon) is pending. Health remains his best topic."
+    "summary": "The scientist, #2 at 50.3. E17 added a quietly prescient one: hours after Parler was deplatformed he predicted peer-to-peer social software would be deployed, compete, and be unbannable - then Mastodon surged and Bluesky (the very Twitter project discussed that episode) passed 30M users. E14's AlphaFold-replication call ('an inevitability' in 12-24 months) was dead on. The misses: oil extraction 'economically infeasible within 3 or 4 years' (US crude hit an all-time record), 'no one's going back to movie theaters' (Spider-Man opened to $253M within the year), and his political reads. Biodefense-as-biggest-industry (2050+) is pending."
    },
    "Jason": {
-    "graded": 22,
+    "graded": 24,
     "ungraded": 2,
     "avg_boldness": 2.7,
     "strengths": [
-     "Media (70, 2 graded)",
-     "Politics (58, 10 graded)"
+     "Media (70, 2 graded)"
     ],
     "weaknesses": [
-     "Markets (31, 3 graded)",
      "COVID (0, 3 graded)",
      "Society (0, 2 graded)"
     ],
@@ -4482,16 +4733,16 @@
     "best_claim": "Biden wins the 2020 election, and wins big",
     "worst_id": 89,
     "worst_claim": "Vaccine progress plus the debates means Trump sails to re-election",
-    "summary": "Boom or bust, now 41.7 and #3 on a growing sample. E15 showed both modes in one episode: 'Nikola will go to zero - I kid you not' (bankrupt by Feb 2025) and 'Disney passes Netflix' (total streaming subs, Aug 2022) hit, while 'Kamala winds up becoming president' and 'Slack becomes the preeminent brand over Salesforce' missed. E14's 'GOP never wins the presidency with this strategy' will keep dragging as more 2020 episodes land. Election night 2020 remains his peak. The Rock-for-president (2035) and Buttigieg ticket calls are pending."
+    "summary": "Boom or bust, now 40.9 and #3. The GameStop episode was a good one: 'Robinhood will ride it out' against Chamath's sued-into-oblivion - Jason was right (Robinhood raised $3.4B in days and IPO'd in July 2021). E15's 'Nikola will go to zero' and 'Disney passes Netflix' both hit. E17's \"Trump is going to jail - yes\" missed (unconditional discharge, no jail). Election night 2020 remains his peak. The Rock-for-president (2035) and Buttigieg ticket calls are pending. Still a small sample - treat the score as provisional."
    },
    "Sacks": {
-    "graded": 54,
+    "graded": 58,
     "ungraded": 0,
     "avg_boldness": 2.8,
     "strengths": [
-     "Markets (100, 2 graded)",
+     "Markets (100, 3 graded)",
      "Geopolitics (90, 4 graded)",
-     "Tech (83, 3 graded)"
+     "Health (80, 2 graded)"
     ],
     "weaknesses": [
      "Politics (38, 28 graded)"
@@ -4500,7 +4751,7 @@
     "best_claim": "Imperial College's 2.2 million US death projection was insane fear-mongering, and that has been borne out",
     "worst_id": 31,
     "worst_claim": "PREDICTION: no new gun-control legislation for a generation",
-    "summary": "The most disciplined caller on the panel, still #1 at 56.7. The E15 award show was his best episode yet: 'Elon on track to be world's richest man and first trillionaire' went two for two (richest in Jan 2021, first trillionaire at the June 2026 SpaceX IPO), and 'Pelosi not speaker in 2 years, headed for retirement' landed on schedule. But E16, taped after the Capitol riot, produced his biggest single miss: 'Trump has disqualified himself from being a national candidate again - 2024 is clearly off the table' (weight 12, wrong). The same episode's prosecutions call was right. Misses cluster in electoral politics; his structural and policy calls keep him on top."
+    "summary": "The most disciplined caller on the panel, still #1 at 56.4. Two strong real-time reads in the GameStop episodes: GameStop 'is going to end very badly' for retail buyers (it fell ~85% within four trading days), and E18's worst-case stimulus call - 'inflation, middle-class savings get wiped out' - months before CPI hit 9.1%. The deplatforming episodes carry three wrongs: \"Trump has disqualified himself for 2024\" (weight 12), \"Big Tech gets broken up, Facebook's next\", and \"regulated into quasi-governmental utilities\". His winners are big: Musk first-trillionaire (June 2026 SpaceX IPO), both Georgia runoffs, the 2021 vaccine bounce. Misses cluster in electoral and platform politics."
    }
   }
  },
@@ -4531,8 +4782,8 @@
      "graded": 15
     },
     "2021-Q1": {
-     "score": 100,
-     "graded": 2
+     "score": 67,
+     "graded": 4
     }
    },
    "Friedberg": {
@@ -4551,6 +4802,10 @@
     "2020-Q4": {
      "score": 38,
      "graded": 14
+    },
+    "2021-Q1": {
+     "score": 100,
+     "graded": 1
     }
    },
    "Jason": {
@@ -4569,6 +4824,10 @@
     "2020-Q4": {
      "score": 51,
      "graded": 13
+    },
+    "2021-Q1": {
+     "score": 31,
+     "graded": 2
     }
    },
    "Sacks": {
@@ -4585,13 +4844,13 @@
      "graded": 24
     },
     "2021-Q1": {
-     "score": 33,
-     "graded": 3
+     "score": 44,
+     "graded": 7
     }
    }
   },
   "updated": "2026-09-10",
   "note": "AI-generated commentary on measured quarterly scores; switches to annual as multi-year coverage lands.",
-  "commentary": "The arc of 2020: Chamath started the pandemic catastrophically wrong (14 in Q1), improved through Q3 (59), then sank again in Q4 (28) despite the money-where-his-mouth-is Pelosi/House hit - the big structural bets (zero-chance-Trump-2024, Nikki-Haley-2024, Breitbart Light) cost more. Jason posted the best Q4 on the board (51): Nikola-to-zero, Disney-passes-Netflix, and the election-night Biden read offsetting the Kamala-president and Slack-Salesforce misses. Sacks held the top all year (Q4: 51) on the Musk trillionaire trajectory, the Georgia runoffs, and the vaccine-bounce calls - though his Q4 and first 2021 episodes carry his heaviest miss, the post-Capitol 'Trump is disqualified for 2024' call. Friedberg's Q4 (38) mixed the AlphaFold-replication bullseye with the permanent-COVID-rules and oil-infeasibility misses. 2021-Q1 is now open (E16): Chamath 100 on two graded riot-legal calls, Sacks 33 on the Trump-disqualification miss. Annual trend view activates as multi-year coverage deepens."
+  "commentary": "The arc so far: Chamath bottomed in 2020-Q1 (14 - the market-bottom and death-toll calls), peaked in Q3 (59), sank in Q4 (28) on structural political bets, then opened 2021 strong (86 in Q1) on the Capitol-riot legal calls and the TikTok read. Jason's best quarter was 2020-Q4 (51: Nikola-to-zero, Disney-passes-Netflix, the Biden call); his Robinhood-ride-it-out win in E19 partially offsets 'Trump is going to jail'. Sacks held the top all through 2020 and leads early 2021 on the stimulus-inflation and GameStop-bag-holder calls, dented by the Trump-disqualification and Big-Tech-breakup misses. Friedberg opened 2021 at 100 on the peer-to-peer-platforms prediction. Coverage now runs E0-E20 (Dec 2019 - Feb 2021); annual trend view activates as multi-year coverage deepens."
  }
 }
