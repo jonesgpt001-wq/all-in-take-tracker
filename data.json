@@ -105,6 +105,16 @@
    "title": "E20: Robinhood wrap up, Insiders vs. Outsiders, California's failing report card & how to fix it",
    "date": "2021-02-03",
    "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E20.mp3?dest-id=1928300"
+  },
+  "E21": {
+   "title": "E21: Media misalignment, subjects controlling narratives & more with bestie guestie Draymond Green",
+   "date": "2021-02-06",
+   "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E21.mp3?dest-id=1928300"
+  },
+  "E22": {
+   "title": "E22: Reflecting on the Robinhood situation with Bestie Guestie Vlad Tenev",
+   "date": "2021-02-13",
+   "url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E22.mp3?dest-id=1928300"
   }
  },
  "predictions": [
@@ -4638,6 +4648,51 @@
    ],
    "ts": 4320,
    "id": 197
+  },
+  {
+   "episode": "E21",
+   "episode_date": "2021-02-06",
+   "episode_title": "E21: Media misalignment, subjects controlling narratives & more with bestie guestie Draymond Green",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E21.mp3?dest-id=1928300",
+   "time": "~22m",
+   "speaker": "Jason",
+   "attribution": "high",
+   "claim": "Media brands will increasingly be built around podcasts and subject-first creators, not legacy networks",
+   "quote": "I think what's going to happen is, you're going to see media brands built around certain podcasts, and they're going to work subject first. In other words, the subject of the story are are going to create media properties.",
+   "topic": "Media",
+   "boldness": 3,
+   "importance": 2,
+   "status": "correct",
+   "accuracy": 1,
+   "weight": 6,
+   "resolution": "Borne out: creator-led media became the defining media shift of 2021 onward - Substack and personality-driven outlets pulled talent from legacy newsrooms, and the hosts' own show turned into exactly the brand Jason described, launching the sold-out All-In Summit in September 2021.",
+   "sources": [
+    "https://therebooting.substack.com/p/creator-led-media-businesses",
+    "https://en.wikipedia.org/wiki/All-In_Podcast"
+   ],
+   "ts": 1320,
+   "id": 198
+  },
+  {
+   "episode": "E21",
+   "episode_date": "2021-02-06",
+   "episode_title": "E21: Media misalignment, subjects controlling narratives & more with bestie guestie Draymond Green",
+   "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E21.mp3?dest-id=1928300",
+   "time": "~66m",
+   "speaker": "Jason",
+   "attribution": "medium",
+   "claim": "Draymond Green will be governor of Michigan or California before he turns 50",
+   "quote": "I'm going to make a prediction that our bestie will be the Governor of Michigan or the Governor of California before the time he's 50.",
+   "topic": "Politics",
+   "boldness": 3,
+   "importance": 2,
+   "status": "pending",
+   "accuracy": null,
+   "weight": 6,
+   "resolution": "Ungraded - Green was born in March 1990, so this runs until 2040. He has floated political interest but holds no office yet.",
+   "sources": [],
+   "ts": 3960,
+   "id": 199
   }
  ],
  "leaderboard": [
@@ -4659,9 +4714,9 @@
   },
   {
    "name": "Jason",
-   "score": 40.9,
-   "n": 24,
-   "correct": 9,
+   "score": 42.7,
+   "n": 25,
+   "correct": 10,
    "partial": 3,
    "wrong": 12
   },
@@ -4719,11 +4774,11 @@
     "summary": "The scientist, #2 at 50.3. E17 added a quietly prescient one: hours after Parler was deplatformed he predicted peer-to-peer social software would be deployed, compete, and be unbannable - then Mastodon surged and Bluesky (the very Twitter project discussed that episode) passed 30M users. E14's AlphaFold-replication call ('an inevitability' in 12-24 months) was dead on. The misses: oil extraction 'economically infeasible within 3 or 4 years' (US crude hit an all-time record), 'no one's going back to movie theaters' (Spider-Man opened to $253M within the year), and his political reads. Biodefense-as-biggest-industry (2050+) is pending."
    },
    "Jason": {
-    "graded": 24,
-    "ungraded": 2,
+    "graded": 25,
+    "ungraded": 3,
     "avg_boldness": 2.7,
     "strengths": [
-     "Media (70, 2 graded)"
+     "Media (81, 3 graded)"
     ],
     "weaknesses": [
      "COVID (0, 3 graded)",
@@ -4733,7 +4788,7 @@
     "best_claim": "Biden wins the 2020 election, and wins big",
     "worst_id": 89,
     "worst_claim": "Vaccine progress plus the debates means Trump sails to re-election",
-    "summary": "Boom or bust, now 40.9 and #3. The GameStop episode was a good one: 'Robinhood will ride it out' against Chamath's sued-into-oblivion - Jason was right (Robinhood raised $3.4B in days and IPO'd in July 2021). E15's 'Nikola will go to zero' and 'Disney passes Netflix' both hit. E17's \"Trump is going to jail - yes\" missed (unconditional discharge, no jail). Election night 2020 remains his peak. The Rock-for-president (2035) and Buttigieg ticket calls are pending. Still a small sample - treat the score as provisional."
+    "summary": "Boom or bust, now 42.7 and #3. The GameStop episode was a good one: 'Robinhood will ride it out' against Chamath's sued-into-oblivion - Jason was right (Robinhood raised $3.4B in days and IPO'd in July 2021). E15's 'Nikola will go to zero' and 'Disney passes Netflix' both hit. E17's \"Trump is going to jail - yes\" missed (unconditional discharge, no jail). Election night 2020 remains his peak. The Rock-for-president (2035) and Buttigieg ticket calls are pending. Still a small sample - treat the score as provisional."
    },
    "Sacks": {
     "graded": 58,
@@ -4826,8 +4881,8 @@
      "graded": 13
     },
     "2021-Q1": {
-     "score": 31,
-     "graded": 2
+     "score": 53,
+     "graded": 3
     }
    },
    "Sacks": {
